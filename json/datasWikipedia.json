@@ -1,0 +1,825 @@
+[
+	{
+		"mes": 1,
+		"dia": 1,
+		"comemoracao": "Dia do Domínio Público"
+	},
+	{
+		"mes": 1,
+		"dia": 15,
+		"comemoracao": [
+			"Dia do Museu de Arte Moderna",
+			"Dia do Festival da Carmentália"
+		]
+	},
+	{
+		"mes": 1,
+		"dia": 27,
+		"comemoracao": "Dia do Orador"
+	},
+	{
+		"mes": 1,
+		"dia": 30,
+		"comemoracao": "Dia da Não Violência"
+	},
+	{
+		"mes": 1,
+		"dia": 31,
+		"comemoracao": [
+			"Dia do Engenheiro Ambiental",
+			"Dia da Solidariedade"
+		]
+	},
+	{
+		"mes": 2,
+		"dia": 1,
+		"comemoracao": "Festa das Candelárias"
+	},
+	{
+		"mes": 2,
+		"dia": 24,
+		"comemoracao": "Dia Nacional do RPG"
+	},
+	{
+		"mes": 3,
+		"dia": 5,
+		"comemoracao": "Dia da Integração Cooperativista"
+	},
+	{
+		"mes": 3,
+		"dia": 10,
+		"comemoracao": "Dia do Conservador"
+	},
+	{
+		"mes": 3,
+		"dia": 14,
+		"comemoracao": "Dia da Incontinência Urinária"
+	},
+	{
+		"mes": 3,
+		"dia": 23,
+		"comemoracao": [
+			"Dia do Naturólogo",
+			"Dia do Acupunturista",
+			"Dia do Naturopata"
+		]
+	},
+	{
+		"mes": 3,
+		"dia": 28,
+		"comemoracao": "Dia Nacional de Lutas Estudantis"
+	},
+	{
+		"mes": 3,
+		"dia": 31,
+		"comemoracao": "Dia Nacional da Saúde e Nutrição"
+	},
+	{
+		"mes": 4,
+		"dia": 3,
+		"comemoracao": "Dia da Verdade"
+	},
+	{
+		"mes": 4,
+		"dia": 10,
+		"comemoracao": "Dia do Engenheiro do Exército"
+	},
+	{
+		"mes": 4,
+		"dia": 12,
+		"comemoracao": "Dia da Intendência do Exército Brasileiro"
+	},
+	{
+		"mes": 4,
+		"dia": 24,
+		"comemoracao": "Dia do Boi"
+	},
+	{
+		"mes": 4,
+		"dia": 25,
+		"comemoracao": [
+			"Dia do Telégrafo Sem Fio",
+			"Dia do Despachante Aduaneiro"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 27,
+		"comemoracao": "Dia do Sacerdote"
+	},
+	{
+		"mes": 4,
+		"dia": 28,
+		"comemoracao": "Dia da Educação"
+	},
+	{
+		"mes": 5,
+		"dia": 1,
+		"comemoracao": "Dia da Literatura Brasileira"
+	},
+	{
+		"mes": 5,
+		"dia": 2,
+		"comemoracao": [
+			"Dia Nacional da Ética",
+			"Dia Nacional de Luta pela Cidadania, Dignidade e Direitos Humanos na Política Nacional sobre Drogas"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 3,
+		"comemoracao": "Dia do Solo"
+	},
+	{
+		"mes": 5,
+		"dia": 9,
+		"comemoracao": "Dia Nacional do Empregado Sindical"
+	},
+	{
+		"mes": 5,
+		"dia": 10,
+		"comemoracao": "Dia do Campo"
+	},
+	{
+		"mes": 5,
+		"dia": 12,
+		"comemoracao": "Dia do Islamismo"
+	},
+	{
+		"mes": 5,
+		"dia": 14,
+		"comemoracao": "Dia das Vocações"
+	},
+	{
+		"mes": 5,
+		"dia": 18,
+		"comemoracao": "Dia Nacional da Luta Antimanicomial"
+	},
+	{
+		"mes": 5,
+		"dia": 21,
+		"comemoracao": "Dia do profissional de Letras"
+	},
+	{
+		"mes": 5,
+		"dia": 24,
+		"comemoracao": [
+			"Dia Nacional do Café",
+			"Dia do Digitador",
+			"Dia do Coração Aquecido (Metodista)"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 25,
+		"comemoracao": [
+			"Dia da Costureira",
+			"Dia do Orgulho Nerd/Geek",
+			"Dia do Sapateado",
+			"Dia de África",
+			"Dia da Toalha, uma homenagem a Douglas Adams",
+			"Dia Nacional da Adoção (Lei nº 10.447, de 9 de maio de 2002)"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 26,
+		"comemoracao": "Dia do Revendedor Lotérico"
+	},
+	{
+		"mes": 5,
+		"dia": 27,
+		"comemoracao": "Dia do Serviço de Saúde"
+	},
+	{
+		"mes": 5,
+		"dia": 28,
+		"comemoracao": [
+			"Dia Nacional de Luta pela Redução da Mortalidade Materna",
+			"Dia do Ceramista",
+			"Aniversário da Escola de Sargentos das Armas (Exército Brasileiro)"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 3,
+		"comemoracao": [
+			"Dia da Conscientização contra a Obesidade Mórbida Infantil",
+			"Dia do Escrevente de Cartório (Cidade de SP)"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 4,
+		"comemoracao": "Dia do Engenheiro Agrimensor"
+	},
+	{
+		"mes": 6,
+		"dia": 6,
+		"comemoracao": "Dia Internacional da Logística"
+	},
+	{
+		"mes": 6,
+		"dia": 7,
+		"comemoracao": "Dia Nacional dos Catadores de Material Reciclável"
+	},
+	{
+		"mes": 6,
+		"dia": 8,
+		"comemoracao": [
+			"Dia Nacional dos Oceanógrafos e Oceanólogos",
+			"Dia Municipal do Metal (SP)",
+			"Emancipação Política de Tabuleiro do Norte - Ceará"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 9,
+		"comemoracao": "Dia do Funcionário Público responsável pelo apenso"
+	},
+	{
+		"mes": 6,
+		"dia": 18,
+		"comemoracao": "Dia do Orgulho Autista"
+	},
+	{
+		"mes": 6,
+		"dia": 19,
+		"comemoracao": "Dia do Migrante"
+	},
+	{
+		"mes": 6,
+		"dia": 21,
+		"comemoracao": "Dia Nacional do Controle da Asma"
+	},
+	{
+		"mes": 6,
+		"dia": 22,
+		"comemoracao": [
+			"Dia do Orquidófilo",
+			"Dia Mundial do Fusca"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 23,
+		"comemoracao": [
+			"Dia do Lavrador",
+			"Dia Nacional do Desporto - Criado pela Lei Pelé (art. 86)"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 25,
+		"comemoracao": [
+			"Dia do Quilo",
+			"Dia do Cotonete"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 26,
+		"comemoracao": "Dia do Professor de Geografia no Brasil, de acordo com a Lei nº. 6664 de 26 de junho de 1979. Essa Lei regulamenta e disciplina a profissão de Geógrafo e dá outras providências"
+	},
+	{
+		"mes": 6,
+		"dia": 27,
+		"comemoracao": "Dia do Mestiço - Amazonas, Roraima e Paraíba"
+	},
+	{
+		"mes": 6,
+		"dia": 29,
+		"comemoracao": [
+			"Dia do Pescador",
+			"Dia do Dublador"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 30,
+		"comemoracao": [
+			"Dia Nacional do Bumba Meu Boi",
+			"Dia do Fiscal Federal Agropecuário"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 3,
+		"comemoracao": [
+			"Dia Nacional de Combate à Discriminação Racial",
+			"Dia do Ministério da Justiça",
+			"Dia dos Incrédulos",
+			"Dia do Juiz de Paz"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 7,
+		"comemoracao": [
+			"Dia do Voluntário Social",
+			"Dia Estadual do Funk de São Paulo"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 8,
+		"comemoracao": [
+			"Dia do Padeiro",
+			"Dia do Executivo de Mídia",
+			"Dia da Bandeira da cidade do Rio de Janeiro"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 9,
+		"comemoracao": [
+			"Dia do Protético",
+			"Dia da Juventude"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 10,
+		"comemoracao": [
+			"Dia da Saúde Ocular",
+			"Dia do Engenheiro de Minas",
+			"Dia do Frescobol no estado do Rio de Janeiro"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 12,
+		"comemoracao": "Dia do Engenheiro Florestal"
+	},
+	{
+		"mes": 7,
+		"dia": 14,
+		"comemoracao": "Dia da Bastilha, a festa nacional francesa, que comemora a Tomada da Bastilha"
+	},
+	{
+		"mes": 7,
+		"dia": 15,
+		"comemoracao": "Festival de Castor e Pólux (no Império Romano)"
+	},
+	{
+		"mes": 7,
+		"dia": 16,
+		"comemoracao": "Dia da Terceira Constituição do Brasil (1934)"
+	},
+	{
+		"mes": 7,
+		"dia": 17,
+		"comemoracao": "Dia do Submarinista"
+	},
+	{
+		"mes": 7,
+		"dia": 18,
+		"comemoracao": "Dia dos Veteranos de Guerra"
+	},
+	{
+		"mes": 7,
+		"dia": 19,
+		"comemoracao": [
+			"Dia da Junta Comercial",
+			"Dia dos Povos Oprimidos"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 20,
+		"comemoracao": [
+			"Dia Nacional do Tatuador",
+			"Dia do Revendedor do Posto de Gasolina (Frentista)"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 21,
+		"comemoracao": "Dia do Dançarino de Salão"
+	},
+	{
+		"mes": 7,
+		"dia": 25,
+		"comemoracao": "Dia da Mulher Negra"
+	},
+	{
+		"mes": 7,
+		"dia": 26,
+		"comemoracao": [
+			"Dia do Moedeiro",
+			"Dia da Imprensa Espírita"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 27,
+		"comemoracao": [
+			"Dia do Despachante",
+			"Dia do Motociclista",
+			"Dia da Prevenção de Acidentes de Trabalho",
+			"Dia do Pediatra"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 29,
+		"comemoracao": "Dia Nacional da Lasana"
+	},
+	{
+		"mes": 7,
+		"dia": 31,
+		"comemoracao": "Dia da Mulher Afro-Latina-Americana e Caribenha"
+	},
+	{
+		"mes": 8,
+		"dia": 1,
+		"comemoracao": [
+			"Dia do Poeta de Literatura de Cordel",
+			"Dia do Cerealista"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 6,
+		"comemoracao": "Dia de Hiroshima"
+	},
+	{
+		"mes": 8,
+		"dia": 8,
+		"comemoracao": "Dia Nacional de Controle do Colesterol no Brasil"
+	},
+	{
+		"mes": 8,
+		"dia": 11,
+		"comemoracao": [
+			"Dia do Pindura",
+			"Dia da Pintura",
+			"Dia da Consciência Nacional"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 14,
+		"comemoracao": "Dia do Combate à Poluição"
+	},
+	{
+		"mes": 8,
+		"dia": 15,
+		"comemoracao": "Dia da Gestante"
+	},
+	{
+		"mes": 8,
+		"dia": 17,
+		"comemoracao": "Dia do Pão de Queijo"
+	},
+	{
+		"mes": 8,
+		"dia": 22,
+		"comemoracao": "Dia do Educador Especial"
+	},
+	{
+		"mes": 8,
+		"dia": 23,
+		"comemoracao": [
+			"Dia do Internauta",
+			"Dia do Aviador Naval",
+			"Dia da Intendência"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 24,
+		"comemoracao": [
+			"Dia da Limpeza urbana",
+			"Dia do Psicólogo"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 28,
+		"comemoracao": "Dia Nacional do Leoísmo"
+	},
+	{
+		"mes": 8,
+		"dia": 30,
+		"comemoracao": [
+			"Dia do Celíaco",
+			"Dia do samba-rock"
+		]
+	},
+	{
+		"mes": 9,
+		"dia": 1,
+		"comemoracao": "Dia do caixeiro-viajante"
+	},
+	{
+		"mes": 9,
+		"dia": 2,
+		"comemoracao": [
+			"Dia Nacional da Kombi",
+			"Dia do Florista"
+		]
+	},
+	{
+		"mes": 9,
+		"dia": 3,
+		"comemoracao": "Dia Nacional do Guarda Civil (Lei Ordinária nº 5088, de 30 de agosto de 1966)"
+	},
+	{
+		"mes": 9,
+		"dia": 4,
+		"comemoracao": "Dia do Serventuário"
+	},
+	{
+		"mes": 9,
+		"dia": 5,
+		"comemoracao": [
+			"Dia do Irmão",
+			"Dia do Oficial de Justiça"
+		]
+	},
+	{
+		"mes": 9,
+		"dia": 11,
+		"comemoracao": "Dia do Cerrado"
+	},
+	{
+		"mes": 9,
+		"dia": 17,
+		"comemoracao": "Dia do Herói Nacional"
+	},
+	{
+		"mes": 9,
+		"dia": 18,
+		"comemoracao": "Dia Nacional de Conscientização e Incentivo ao Diagnóstico Precoce do Retinoblastoma"
+	},
+	{
+		"mes": 9,
+		"dia": 19,
+		"comemoracao": "Dia do Ortopedista"
+	},
+	{
+		"mes": 9,
+		"dia": 21,
+		"comemoracao": "Dia do Radialista"
+	},
+	{
+		"mes": 9,
+		"dia": 23,
+		"comemoracao": [
+			"Dia Nacional do Sorvete",
+			"Dia da Mulher Bancária",
+			"Dia do Filho",
+			"Dia da Ikebana Sanguetsu"
+		]
+	},
+	{
+		"mes": 9,
+		"dia": 29,
+		"comemoracao": "Dia do Selinho - Em Homenagem a Hebe Camargo"
+	},
+	{
+		"mes": 9,
+		"dia": 30,
+		"comemoracao": "Dia do Jornaleiro"
+	},
+	{
+		"mes": 10,
+		"dia": 3,
+		"comemoracao": "Dia do Engenheiro de Energia"
+	},
+	{
+		"mes": 10,
+		"dia": 6,
+		"comemoracao": "Dia do Tecnólogo Educacional"
+	},
+	{
+		"mes": 10,
+		"dia": 8,
+		"comemoracao": "Dia do Asfaltador"
+	},
+	{
+		"mes": 10,
+		"dia": 9,
+		"comemoracao": [
+			"Dia do Analista de Suporte",
+			"Dia do Profissional do Consórcio"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 12,
+		"comemoracao": [
+			"Dia do Cirurgião Pediátrico",
+			"Dia Nacional dos Fanzines"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 14,
+		"comemoracao": "Dia do Meteorologista no Brasil"
+	},
+	{
+		"mes": 10,
+		"dia": 17,
+		"comemoracao": "Dia da Agricultura"
+	},
+	{
+		"mes": 10,
+		"dia": 18,
+		"comemoracao": "Dia das Comunicações e Eletrônica da Marinha"
+	},
+	{
+		"mes": 10,
+		"dia": 19,
+		"comemoracao": [
+			"Dia do Profissional de TI",
+			"Dia do Piauí"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 21,
+		"comemoracao": [
+			"Dia do Despachante Público",
+			"Dia da Iluminação",
+			"Dia Nacional da Alimentação na Escola",
+			"Dia do Ecumenismo",
+			"Dia do Podcast"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 25,
+		"comemoracao": "Dia Nacional do Engenheiro Civil"
+	},
+	{
+		"mes": 10,
+		"dia": 26,
+		"comemoracao": [
+			"Dia nacional pelo passe livre",
+			"Dia Nacional da Áustria"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 27,
+		"comemoracao": "Dia do Engenheiro Agrícola"
+	},
+	{
+		"mes": 10,
+		"dia": 28,
+		"comemoracao": [
+			"Dia do Engenheiro Aeronáutico",
+			"Dia do Flamenguista"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 29,
+		"comemoracao": "Dia Nacional do Livro no Brasil"
+	},
+	{
+		"mes": 10,
+		"dia": 30,
+		"comemoracao": [
+			"Dia do Designer de interiores",
+			"Dia do Balconista",
+			"Dia do Ginecologista"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 31,
+		"comemoracao": [
+			"Dia da Dona de Casa",
+			"Dia da Reforma Protestante no Brasil "
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 3,
+		"comemoracao": [
+			"Dia do Guarda Florestal",
+			"Dia da Instituição do Direito de Voto da Mulher"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 4,
+		"comemoracao": "Dia das Favelas"
+	},
+	{
+		"mes": 11,
+		"dia": 5,
+		"comemoracao": [
+			"Dia Nacional do Radioamador",
+			"Dia do Técnico em Eletrônica"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 10,
+		"comemoracao": "Dia da indústria automobilística"
+	},
+	{
+		"mes": 11,
+		"dia": 12,
+		"comemoracao": [
+			"Dia do Psicopedagogo",
+			"Dia do Fluminense Football Club, segundo a Lei Estadual nº 5094 de 27 de setembro de 2007"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 13,
+		"comemoracao": [
+			"Dia do Esporte Amador",
+			"Dia do Joalheiro",
+			"Dia Nacional da Língua Gestual Portuguesa, Portugal"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 16,
+		"comemoracao": "Dia Nacional de Atenção à Dislexia (Lei Nº 13.085, de 8 de Janeiro de 2015, Brasil)"
+	},
+	{
+		"mes": 11,
+		"dia": 17,
+		"comemoracao": [
+			"Dia Nacional de Combate à Tuberculose",
+			"Leónidas (chuva de meteoros)"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 18,
+		"comemoracao": [
+			"Dia do Tabelião e Registrador",
+			"Dia do Colecionador"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 19,
+		"comemoracao": "Dia do Cordelista"
+	},
+	{
+		"mes": 11,
+		"dia": 26,
+		"comemoracao": "Dia do Ministério Público"
+	},
+	{
+		"mes": 12,
+		"dia": 4,
+		"comemoracao": "Dia Latino-americano da Propaganda"
+	},
+	{
+		"mes": 12,
+		"dia": 6,
+		"comemoracao": "Dia da Extensão Rural no Brasil"
+	},
+	{
+		"mes": 12,
+		"dia": 8,
+		"comemoracao": [
+			"Dia do Ciclista",
+			"Dia do Cronista Esportivo",
+			"Dia da Família",
+			"Dia do Relógio Biológico",
+			"Dia da Cabrocha",
+			"Dia do Acidente Laboral"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 9,
+		"comemoracao": "Dia da Bíblia Sagrada"
+	},
+	{
+		"mes": 12,
+		"dia": 10,
+		"comemoracao": "Dia do Palhaço"
+	},
+	{
+		"mes": 12,
+		"dia": 17,
+		"comemoracao": "Dia do Engenheiro de Produção"
+	},
+	{
+		"mes": 12,
+		"dia": 18,
+		"comemoracao": "Dia do Mergulhador"
+	},
+	{
+		"mes": 12,
+		"dia": 20,
+		"comemoracao": "Dia da Bondade"
+	},
+	{
+		"mes": 12,
+		"dia": 22,
+		"comemoracao": "Dia da Consciência Ecológica"
+	}
+]

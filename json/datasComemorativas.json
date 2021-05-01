@@ -1,0 +1,1277 @@
+[
+	{
+		"mes": 1,
+		"dia": 1,
+		"comemoracao": "Confraternização Universal"
+	},
+	{
+		"mes": 1,
+		"dia": 4,
+		"comemoracao": "Dia da Abreugrafia"
+	},
+	{
+		"mes": 1,
+		"dia": 12,
+		"comemoracao": "Dia Nacional do Empresário Contábil"
+	},
+	{
+		"mes": 1,
+		"dia": 15,
+		"comemoracao": "Dia Nacional do Jogo Limpo e de Controle ao Doping nos Esportes"
+	},
+	{
+		"mes": 1,
+		"dia": 18,
+		"comemoracao": [
+			"Dia Nacional do Cabeleireiro, Barbeiro, Esteticista, Manicure, Pedicure, Depilador e Maquiador",
+			"Dia Nacional do Krav Maga"
+		]
+	},
+	{
+		"mes": 1,
+		"dia": 20,
+		"comemoracao": [
+			"Dia Nacional do Farmacêutico",
+			"Dia Nacional da Parteira Tradicional"
+		]
+	},
+	{
+		"mes": 1,
+		"dia": 21,
+		"comemoracao": "Dia Nacional de Combate à Intolerância Religiosa"
+	},
+	{
+		"mes": 1,
+		"dia": 24,
+		"comemoracao": "Dia Nacional do Aposentado"
+	},
+	{
+		"mes": 1,
+		"dia": 25,
+		"comemoracao": "Dia Nacional da Bossa Nova"
+	},
+	{
+		"mes": 1,
+		"dia": 28,
+		"comemoracao": [
+			"Dia Nacional do Auditor-Fiscal do Trabalho",
+			"Dia Nacional do Exportador",
+			"Dia Nacional de Combate ao Trabalho Escravo e Semana Nacional de Combate ao Trabalho Escravo"
+		]
+	},
+	{
+		"mes": 1,
+		"dia": 31,
+		"comemoracao": "Dia Nacional das Reservas Particulares do Patrimônio Natural - RPPN"
+	},
+	{
+		"mes": 2,
+		"dia": 5,
+		"comemoracao": [
+			"Dia Nacional da Mamografia",
+			"Dia do Datiloscopista"
+		]
+	},
+	{
+		"mes": 2,
+		"dia": 7,
+		"comemoracao": "Dia Nacional da Luta dos Povos Indígenas"
+	},
+	{
+		"mes": 2,
+		"dia": 9,
+		"comemoracao": "Dia Nacional do Cerco da Lapa"
+	},
+	{
+		"mes": 2,
+		"dia": 21,
+		"comemoracao": [
+			"Data Festiva do Exército",
+			"Dia Nacional do Imigrante Italiano"
+		]
+	},
+	{
+		"mes": 2,
+		"dia": 23,
+		"comemoracao": [
+			"Dia Nacional do Rotary",
+			"Dia Nacional do Movimento Municipalista Brasileiro"
+		]
+	},
+	{
+		"mes": 2,
+		"dia": 24,
+		"comemoracao": "Dia da Conquista do Voto Feminino no Brasil"
+	},
+	{
+		"mes": 3,
+		"dia": 3,
+		"comemoracao": "Dia Nacional da Igreja O Brasil Para Cristo"
+	},
+	{
+		"mes": 3,
+		"dia": 5,
+		"comemoracao": "Dia Nacional da Música Clássica"
+	},
+	{
+		"mes": 3,
+		"dia": 7,
+		"comemoracao": "Dia Nacional da Advocacia Pública"
+	},
+	{
+		"mes": 3,
+		"dia": 12,
+		"comemoracao": "Dia do Bibliotecário"
+	},
+	{
+		"mes": 3,
+		"dia": 15,
+		"comemoracao": "Dia Nacional do Consumidor"
+	},
+	{
+		"mes": 3,
+		"dia": 16,
+		"comemoracao": [
+			"Dia Nacional de Conscientização sobre as Mudanças Climáticas",
+			"Dia Nacional do Ouvidor",
+			"Dia Nacional do Teatro do Oprimido"
+		]
+	},
+	{
+		"mes": 3,
+		"dia": 18,
+		"comemoracao": [
+			"Dia do DeMolay",
+			"Dia Nacional da Imigração Judaica"
+		]
+	},
+	{
+		"mes": 3,
+		"dia": 19,
+		"comemoracao": "Dia Nacional do Artesão"
+	},
+	{
+		"mes": 3,
+		"dia": 20,
+		"comemoracao": "Dia Nacional do Teatro para a Infãncia e Juventude"
+	},
+	{
+		"mes": 3,
+		"dia": 22,
+		"comemoracao": "Dia Nacional da Água"
+	},
+	{
+		"mes": 3,
+		"dia": 23,
+		"comemoracao": "Dia Nacional do Piso Salarial dos Professores"
+	},
+	{
+		"mes": 3,
+		"dia": 24,
+		"comemoracao": "Dia Internacional do Direito à Verdade"
+	},
+	{
+		"mes": 3,
+		"dia": 25,
+		"comemoracao": [
+			"Dia Nacional da Comunidade Árabe",
+			"Dia da Criança",
+			"Dia Nacional do Oficial de Justiça"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 2,
+		"comemoracao": "Dia Nacional de Conscientização sobre o Autismo"
+	},
+	{
+		"mes": 4,
+		"dia": 7,
+		"comemoracao": "Institui o dia 7 de abril como o Dia Nacional de Combate ao Bullying e à Violência na Escola"
+	},
+	{
+		"mes": 4,
+		"dia": 8,
+		"comemoracao": "Dia Nacional do Sistema Braille"
+	},
+	{
+		"mes": 4,
+		"dia": 12,
+		"comemoracao": [
+			"Dia Nacional do Humorista",
+			"Institui o mês de agosto como o Mês do Aleitamento Materno"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 14,
+		"comemoracao": [
+			"Data Festiva do Exército",
+			"Dia Pan-Americano"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 15,
+		"comemoracao": "Dia Nacional da Conservação do Solo"
+	},
+	{
+		"mes": 4,
+		"dia": 16,
+		"comemoracao": "Dia Nacional da Voz"
+	},
+	{
+		"mes": 4,
+		"dia": 17,
+		"comemoracao": [
+			"Dia Nacional da Botânica",
+			"Dia Nacional de Luta pela Reforma Agrária"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 18,
+		"comemoracao": "Dia Nacional do Livro Infanti"
+	},
+	{
+		"mes": 4,
+		"dia": 19,
+		"comemoracao": [
+			"Dia do Índio",
+			"Dia do Exército Brasileiro"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 20,
+		"comemoracao": "Dia do Diplomata"
+	},
+	{
+		"mes": 4,
+		"dia": 21,
+		"comemoracao": [
+			"Dia das Polícias  Civis e Militares",
+			"Patrono da Nação Brasileira-Tiradentes",
+			"Dia do Funcionário Policial Civil"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 22,
+		"comemoracao": [
+			"Data Festiva da Força Aérea Brasileira",
+			"Dia da Comunidade Luso-Brasileira"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 23,
+		"comemoracao": [
+			"Dia Nacional do Choro",
+			"Dia Nacional do Escotismo"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 24,
+		"comemoracao": "Dia Nacional da Língua Brasileira de Sinais - LIBRAS"
+	},
+	{
+		"mes": 4,
+		"dia": 25,
+		"comemoracao": "Semana e o Dia Nacional da Educação Infantil"
+	},
+	{
+		"mes": 4,
+		"dia": 26,
+		"comemoracao": "Dia Nacional de Combate e Prevenção à Hipertensão Arterial"
+	},
+	{
+		"mes": 4,
+		"dia": 28,
+		"comemoracao": [
+			"Dia Nacional em Memória das Vítimas de Acidentes e Doenças do Trabalho",
+			"Dia Nacional da Caatinga"
+		]
+	},
+	{
+		"mes": 4,
+		"dia": 30,
+		"comemoracao": "Dia Nacional da Mulher"
+	},
+	{
+		"mes": 5,
+		"dia": 1,
+		"comemoracao": "Dia do Trabalho"
+	},
+	{
+		"mes": 5,
+		"dia": 3,
+		"comemoracao": "Dia do Parlamento"
+	},
+	{
+		"mes": 5,
+		"dia": 5,
+		"comemoracao": "Dia Nacional do Líder Comunitário"
+	},
+	{
+		"mes": 5,
+		"dia": 6,
+		"comemoracao": "Dia Nacional da Matemática"
+	},
+	{
+		"mes": 5,
+		"dia": 8,
+		"comemoracao": [
+			"Dia Nacional das Hemoglobinopatias",
+			"Dia Nacional do Turismo",
+			"Dia Nacional do Teatro Acessível: Arte, Prazer e Direitos"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 11,
+		"comemoracao": [
+			"Dia Nacional do Frei Sant'Anna Galvão",
+			"Dia Nacional do Reggae"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 12,
+		"comemoracao": "Dia do Enfermeiro"
+	},
+	{
+		"mes": 5,
+		"dia": 13,
+		"comemoracao": [
+			"Centenário da Abolição da Escravatura no Brasil",
+			"Dia do Automóvel e da Estrada de Rodagem",
+			"Dia Nacional do Zootecnista"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 15,
+		"comemoracao": [
+			"Dia Nacional de Controle das Infecções Hospitalares",
+			"Dia Nacional de Conscientização quanto à Mucopolissacaridose"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 17,
+		"comemoracao": "Dia Nacional de Combate à Homofobia"
+	},
+	{
+		"mes": 5,
+		"dia": 18,
+		"comemoracao": "Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes"
+	},
+	{
+		"mes": 5,
+		"dia": 19,
+		"comemoracao": [
+			"Dia Nacional da Defensoria Pública",
+			"Semana Nacional de Doação de Leite e Dia Nacional de Doação de Leite"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 20,
+		"comemoracao": "Dia Nacional do Pedagogo"
+	},
+	{
+		"mes": 5,
+		"dia": 24,
+		"comemoracao": [
+			"Dia do Telegrafista",
+			"Dia Nacional do Cigano",
+			"Dia Nacional do Calcário Agrícola",
+			"Dia Nacional do Milho"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 25,
+		"comemoracao": [
+			"Dia Nacional da Adoção",
+			"Dia da Indústria",
+			"Dia Nacional do Respeito ao Contribuinte",
+			"Dia do Trabalhador Rural"
+		]
+	},
+	{
+		"mes": 5,
+		"dia": 26,
+		"comemoracao": "Dia Nacional de Combate ao Glaucoma"
+	},
+	{
+		"mes": 5,
+		"dia": 27,
+		"comemoracao": "Dia da Mata Atlântica"
+	},
+	{
+		"mes": 5,
+		"dia": 29,
+		"comemoracao": "Dia do Ibegeano"
+	},
+	{
+		"mes": 6,
+		"dia": 1,
+		"comemoracao": "Dia da Imprensa"
+	},
+	{
+		"mes": 6,
+		"dia": 3,
+		"comemoracao": "Dia Nacional da Educação Ambiental"
+	},
+	{
+		"mes": 6,
+		"dia": 5,
+		"comemoracao": "Dia Nacional da Reciclagem"
+	},
+	{
+		"mes": 6,
+		"dia": 6,
+		"comemoracao": [
+			"Dia Nacional do Teste do Pezinho",
+			"Dia Nacional de Luta contra Queimaduras"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 9,
+		"comemoracao": "Dia de Anchieta"
+	},
+	{
+		"mes": 6,
+		"dia": 12,
+		"comemoracao": "Dia Nacional de Combate ao Trabalho Infantil"
+	},
+	{
+		"mes": 6,
+		"dia": 16,
+		"comemoracao": "Institui o Dia Nacional do Policial e do Bombeiro Militares"
+	},
+	{
+		"mes": 6,
+		"dia": 18,
+		"comemoracao": [
+			"Dia Nacional da Imigração Japonesa",
+			"Dia do Tambor de Crioula"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 20,
+		"comemoracao": "Dia Nacional do Vigilante"
+	},
+	{
+		"mes": 6,
+		"dia": 21,
+		"comemoracao": [
+			"Institui o Dia Nacional do Engenheiro de Custos",
+			"Institui o Dia Nacional de Luta Contra a Esclerose Lateral Amiotrófica (ELA)"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 23,
+		"comemoracao": [
+			"Dia Nacional do Agente Marítimo",
+			"Dia do Desporto"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 24,
+		"comemoracao": [
+			"Data Festiva da Força Aérea",
+			"Dia Nacional da Araucária"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 26,
+		"comemoracao": [
+			"Dia Nacional da Consciência do 1º Voto",
+			"Data do Reconhecimento do Município de Santa Teresa, no Estado do Espírito Santo, como Pioneiro da Imigração Italiana no Brasil"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 27,
+		"comemoracao": "Dia Nacional do Quadrilheiro Junino"
+	},
+	{
+		"mes": 6,
+		"dia": 29,
+		"comemoracao": [
+			"Dia Nacional da Aviação de Segurança Pública do Brasil",
+			"Dia do Pescador Amador"
+		]
+	},
+	{
+		"mes": 6,
+		"dia": 30,
+		"comemoracao": [
+			"Dia Nacional do Fiscal Federal Agropecuário",
+			"Dia Nacional do Bumba meu Boi"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 2,
+		"comemoracao": [
+			"Dia do Hospital",
+			"Dia do Bombeiro brasileiro e a Semana de Prevenção Contra Incêndio",
+			"Dia entre as datas históricas do calendário de efemérides nacionais"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 8,
+		"comemoracao": [
+			"Dia Nacional da Ciência",
+			"Dia Nacional do Pesquisador"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 13,
+		"comemoracao": "Dia do Engenheiro de Saneamento"
+	},
+	{
+		"mes": 7,
+		"dia": 15,
+		"comemoracao": "Dia Nacional do Pecuarista"
+	},
+	{
+		"mes": 7,
+		"dia": 16,
+		"comemoracao": "Dia do Comerciante"
+	},
+	{
+		"mes": 7,
+		"dia": 19,
+		"comemoracao": [
+			"Dia Nacional da Caridade",
+			"Dia Nacional da do Compromisso com a Criança, o Adolescente e a Educação"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 21,
+		"comemoracao": "Dia Nacional do Garimpeiro"
+	},
+	{
+		"mes": 7,
+		"dia": 24,
+		"comemoracao": "Dia Nacional do Suinocultor"
+	},
+	{
+		"mes": 7,
+		"dia": 25,
+		"comemoracao": [
+			"Dia do Colono",
+			"Dia do Motorista",
+			"Dia Nacional de Tereza de Benguela e da Mulher Negra"
+		]
+	},
+	{
+		"mes": 7,
+		"dia": 26,
+		"comemoracao": "Dia Nacional do Arqueólogo"
+	},
+	{
+		"mes": 7,
+		"dia": 28,
+		"comemoracao": "Dia do Agricultor"
+	},
+	{
+		"mes": 8,
+		"dia": 1,
+		"comemoracao": "Dia Nacional dos Portadores de Vitiligo"
+	},
+	{
+		"mes": 8,
+		"dia": 2,
+		"comemoracao": "Dia Nacional dos Rosacruzes"
+	},
+	{
+		"mes": 8,
+		"dia": 5,
+		"comemoracao": [
+			"Dia Nacional da Saúde",
+			"Dia Nacional da Vigilância Sanitária"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 6,
+		"comemoracao": "Dia Nacional dos Profissionais da Educação"
+	},
+	{
+		"mes": 8,
+		"dia": 8,
+		"comemoracao": "Dia Nacional do Elos Internacional da Comunidade Lusíada"
+	},
+	{
+		"mes": 8,
+		"dia": 9,
+		"comemoracao": "Dia Nacional da Equoterapia"
+	},
+	{
+		"mes": 8,
+		"dia": 10,
+		"comemoracao": [
+			"Semana Nacional de Controle à Leishmaniose",
+			"Dia Nacional da Eubiose"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 11,
+		"comemoracao": "Feriado Forense"
+	},
+	{
+		"mes": 8,
+		"dia": 12,
+		"comemoracao": [
+			"Dia Nacional da Juventude",
+			"Dia Nacional dos Direitos Humanos"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 15,
+		"comemoracao": [
+			"Dia Nacional das Santas Casas de Misericórdia",
+			"Inclusão no Calendário Turístico Nacional a \"Caminhada com Maria\"",
+			"Dia Nacional da Imigração Chinesa"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 18,
+		"comemoracao": "Dia Nacional do Campo Limpo"
+	},
+	{
+		"mes": 8,
+		"dia": 19,
+		"comemoracao": [
+			"Dia Nacional do Historiador",
+			"Dia da Integração Jurídica Latino-Americana",
+			"Dia Nacional da Aviação Agrícola",
+			"Dia Nacional do Ciclista"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 21,
+		"comemoracao": "Semana Nacional da Pessoa com Deficiência Intelectual e Múltipla"
+	},
+	{
+		"mes": 8,
+		"dia": 22,
+		"comemoracao": "Dia do Folclore"
+	},
+	{
+		"mes": 8,
+		"dia": 24,
+		"comemoracao": "Dia Nacional da Comunidade Ucraniana"
+	},
+	{
+		"mes": 8,
+		"dia": 25,
+		"comemoracao": [
+			"Dia da Legalidade",
+			"Dia do Soldado",
+			"Semana e Dia Nacional da Educação Infantil"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 26,
+		"comemoracao": "Dia Nacional do Psicólogo"
+	},
+	{
+		"mes": 8,
+		"dia": 28,
+		"comemoracao": [
+			"Dia Nacional de Combate e Prevenção ao Escalpelamento",
+			"Dia Nacional do Voluntariado",
+			"Dia Nacional dos Bancários"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 29,
+		"comemoracao": [
+			"Dia Nacional de Combate ao Fumo",
+			"Dia Nacional do Vaqueiro"
+		]
+	},
+	{
+		"mes": 8,
+		"dia": 30,
+		"comemoracao": "Dia Nacional de Conscientização sobre a Esclorose Múltipla"
+	},
+	{
+		"mes": 9,
+		"dia": 1,
+		"comemoracao": "Dia do Profissional de Educação Física"
+	},
+	{
+		"mes": 9,
+		"dia": 3,
+		"comemoracao": "Dia da Guarda Civil"
+	},
+	{
+		"mes": 9,
+		"dia": 5,
+		"comemoracao": [
+			"Dia da Amazônia",
+			"Dia do Oficial de Farmácia",
+			"Dia Nacional de Conscientização e Divulgação da Fibrose Cística"
+		]
+	},
+	{
+		"mes": 9,
+		"dia": 7,
+		"comemoracao": "Dia da Independência"
+	},
+	{
+		"mes": 9,
+		"dia": 8,
+		"comemoracao": "Dia Nacional de Alfabetização"
+	},
+	{
+		"mes": 9,
+		"dia": 9,
+		"comemoracao": "Dia Nacional do Administrador"
+	},
+	{
+		"mes": 9,
+		"dia": 13,
+		"comemoracao": "Dia Nacional de Luta dos Acidentados por Fontes Radioativas"
+	},
+	{
+		"mes": 9,
+		"dia": 16,
+		"comemoracao": [
+			"Dia Nacional do Caminhoneiro",
+			"Dia Nacional de Combate e Prevenção à Trombose"
+		]
+	},
+	{
+		"mes": 9,
+		"dia": 17,
+		"comemoracao": "Dia Nacional do Transportador Rodoviário de Carga"
+	},
+	{
+		"mes": 9,
+		"dia": 18,
+		"comemoracao": [
+			"Dia da Televisão",
+			"Dia Nacional de Conscientização e Incentivo ao Diagnóstico Precoce do Retinoblastoma"
+		]
+	},
+	{
+		"mes": 9,
+		"dia": 19,
+		"comemoracao": "Dia Nacional do Educador Social"
+	},
+	{
+		"mes": 9,
+		"dia": 21,
+		"comemoracao": [
+			"Dia Nacional de Luta da Pessoa Portadora de Deficiência",
+			"Dia Nacional da Conscientização da Doença de Alzheimer",
+			"Festa Anual das Árvores"
+		]
+	},
+	{
+		"mes": 9,
+		"dia": 22,
+		"comemoracao": "Dia Nacional do Atleta Paraolímpico"
+	},
+	{
+		"mes": 9,
+		"dia": 23,
+		"comemoracao": [
+			"Dia Nacional dos Profissionais de Nível Técnico",
+			"Dia Nacional dos Agentes da Autoridade de Trânsito"
+		]
+	},
+	{
+		"mes": 9,
+		"dia": 26,
+		"comemoracao": "Dia Nacional dos Surdos"
+	},
+	{
+		"mes": 9,
+		"dia": 27,
+		"comemoracao": [
+			"Dia Nacional dos Vicentinos",
+			"Dia Nacional do Turismólogo e dos Profissionais do Turismo",
+			"Dia Nacional da Doação de Órgãos"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 1,
+		"comemoracao": [
+			"Dia Nacional do Vereador",
+			"Dia Nacional do Idoso"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 2,
+		"comemoracao": "Dia Nacional do Pacifismo Ativo e pelo Desarmamento"
+	},
+	{
+		"mes": 10,
+		"dia": 3,
+		"comemoracao": "Dia Nacional da Agroecologia"
+	},
+	{
+		"mes": 10,
+		"dia": 4,
+		"comemoracao": [
+			"Dia Nacional do Agente Comunitário de Saúde",
+			"Dia Nacional do Paisagista",
+			"Dia Nacional dos Agentes de Combate às Endemias"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 5,
+		"comemoracao": [
+			"Dia da Ave",
+			"Dia Nacional da Cidadania"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 8,
+		"comemoracao": [
+			"Dia Nacional de Combate à Cartéis",
+			"Dia Nacional de Doação de Cordão Umbilical"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 10,
+		"comemoracao": [
+			"Dia da Guarda Municipal",
+			"Dia Nacional de Segurança e de Saúde nas Escolas",
+			"Dia Nacional dos Direitos Fundamentais da Pessoa com Transtornos Mentais"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 11,
+		"comemoracao": "Dia Nacional de Prevenção da Obesidade"
+	},
+	{
+		"mes": 10,
+		"dia": 12,
+		"comemoracao": [
+			"Dia Nacional da Leitura e a Semana Nacional da Leitura e da Literatura",
+			"Dia de Festa das Crianças/Dia das Criaças",
+			"Dia de Nossa Senhora da Conceição Aparecida, Padroeira do Brasil"
+		],
+		"link": [
+			"",
+			"https://pt.wikipedia.org/wiki/Dia_das_Crian%C3%A7as",
+			[
+				"https://pt.wikipedia.org/wiki/Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Aparecida",
+				"https://pt.wikipedia.org/wiki/Orago"
+			]
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 13,
+		"comemoracao": [
+			"Dia Nacional do Fisioterapeuta",
+			"Dia Nacional do Terapeuta Ocupacional"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 15,
+		"comemoracao": "Dia do Professor"
+	},
+	{
+		"mes": 10,
+		"dia": 17,
+		"comemoracao": "Dia Nacional da Música Popular Brasileira"
+	},
+	{
+		"mes": 10,
+		"dia": 18,
+		"comemoracao": "Dia Nacional do Distribuidor de Insumo Agrícola e Veterinário"
+	},
+	{
+		"mes": 10,
+		"dia": 19,
+		"comemoracao": [
+			"Dia da Inovação",
+			"Dia Nacional do Leiloeiro"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 20,
+		"comemoracao": "Dia Nacional do Maquinista Ferroviário"
+	},
+	{
+		"mes": 10,
+		"dia": 21,
+		"comemoracao": "Dia Nacional de Valorização da Família"
+	},
+	{
+		"mes": 10,
+		"dia": 23,
+		"comemoracao": "Dia do Aviador"
+	},
+	{
+		"mes": 10,
+		"dia": 25,
+		"comemoracao": [
+			"Dia da Saúde Dentária",
+			"Dia Nacional da Saúde Bucal",
+			"Dia Nacional do Macarrão",
+			"Dia Nacional do Patrono da Construção Civil e dos Profissionais de Engenharia Civil, Santo Antônio de Sant'Ana",
+			"Institui o Dia Nacional de Combate ao Preconceito contra as Pessoas com Nanismo"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 26,
+		"comemoracao": [
+			"Dia do Movimento Pestalozziano no Brasil",
+			"Dia Nacional dos Trabalhadores Metroviários"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 27,
+		"comemoracao": "Dia Nacional da Luta pelos Direitos das Pessoas com Doenças Falciformes"
+	},
+	{
+		"mes": 10,
+		"dia": 28,
+		"comemoracao": "Dia do Servidor Público"
+	},
+	{
+		"mes": 10,
+		"dia": 29,
+		"comemoracao": [
+			"Dia Nacional de Combate à Psoríase",
+			"Dia Nacional do Cerimonialista"
+		]
+	},
+	{
+		"mes": 10,
+		"dia": 30,
+		"comemoracao": "Dia do Comerciário"
+	},
+	{
+		"mes": 10,
+		"dia": 31,
+		"comemoracao": [
+			"Dia Nacional da Poesia",
+			"Dia Nacional da Proclamação do Evangelho"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 2,
+		"comemoracao": "Dia de Finados"
+	},
+	{
+		"mes": 11,
+		"dia": 3,
+		"comemoracao": "Dia Nacional do Quilo"
+	},
+	{
+		"mes": 11,
+		"dia": 5,
+		"comemoracao": [
+			"Dia Nacional da Língua Portuguesa",
+			"Dia da Cultura e da Ciência",
+			"Dia do Técnico Agrícola",
+			"Dia Nacional do Interactiano"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 7,
+		"comemoracao": "Dia do Radialista"
+	},
+	{
+		"mes": 11,
+		"dia": 8,
+		"comemoracao": [
+			"Dia Nacional do Urbanismo",
+			"Dia Nacional do Médico Radiologista"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 9,
+		"comemoracao": "Dia Nacional dos Clubes Esportivos Sociais"
+	},
+	{
+		"mes": 11,
+		"dia": 10,
+		"comemoracao": "Dia Nacional do Intensivista"
+	},
+	{
+		"mes": 11,
+		"dia": 12,
+		"comemoracao": [
+			"Dia Nacional do Inventor",
+			"Dia Nacional da Liberdade"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 14,
+		"comemoracao": "Dia Nacional da Alfabetização"
+	},
+	{
+		"mes": 11,
+		"dia": 15,
+		"comemoracao": "Dia Nacional da Umbanda"
+	},
+	{
+		"mes": 11,
+		"dia": 16,
+		"comemoracao": [
+			"Dia Nacional dos Ostomizados",
+			"Dia Nacional de Atenção à Dislexia"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 18,
+		"comemoracao": [
+			"Dia Nacional do Conselheiro Tutelar",
+			"Dia Nacional do Notário e do Registrador"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 19,
+		"comemoracao": "Dia da Bandeira"
+	},
+	{
+		"mes": 11,
+		"dia": 20,
+		"comemoracao": [
+			"Dia Nacional da Consciência Negra",
+			"Dia Nacional de Zumbi e da Consciência Negra",
+			"Dia Nacional do Biomédico"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 21,
+		"comemoracao": "Dia Nacional do Compromisso com a Criança, o Adolescente e a Educação"
+	},
+	{
+		"mes": 11,
+		"dia": 22,
+		"comemoracao": [
+			"Dia da Comunidade Libanesa no Brasil",
+			"Dia da Música"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 23,
+		"comemoracao": [
+			"Dia Nacional do Engenheiro Eletricista",
+			"Dia Nacional de Combate ao Câncer Infantil"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 25,
+		"comemoracao": [
+			"Dia Nacional do Doador Voluntário de Sangue",
+			"Dia Nacional da Baiana de Acarajé",
+			"Dia Nacional do Samba de Roda"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 25,
+		"comemoracao": "Dia Nacional dos Trabalhadores em Turismo e Hospitalidade"
+	},
+	{
+		"mes": 11,
+		"dia": 27,
+		"comemoracao": [
+			"Dia Nacional de Luta Contra o Câncer de Mama",
+			"Dia Nacional de Educação à Distância"
+		]
+	},
+	{
+		"mes": 11,
+		"dia": 30,
+		"comemoracao": [
+			"Dia Nacional do Evangélico",
+			"Dia da Amizade Brasil-Argentina"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 2,
+		"comemoracao": [
+			"Dia Panamericano da Sáude",
+			"Dia Nacional das Relações Públicas",
+			"Dia Nacional da Astronomia"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 3,
+		"comemoracao": [
+			"Dia Nacional de Combate à Pirataria e a Biopirataria",
+			"Dia do Delegado de Polícia"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 4,
+		"comemoracao": [
+			"Dia do Trabalhador nas Minas de Carvão",
+			"Dia Nacional do Perito Criminal"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 5,
+		"comemoracao": "Dia Nacional da Pastoral da Criança"
+	},
+	{
+		"mes": 12,
+		"dia": 6,
+		"comemoracao": [
+			"Dia Nacional do Extensionista Rural no Brasil",
+			"Dia Nacional de Mobilização do Homens pelo Fim da Violência contra as Mulheres"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 7,
+		"comemoracao": [
+			"Dia do Pau-Brasil",
+			"Dia Nacional da Assistência Social",
+			"Dia Nacional da Silvicutura"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 8,
+		"comemoracao": [
+			"Dia Nacional da Família",
+			"Feriado para Efeitos Forenses"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 9,
+		"comemoracao": "Dia Nacional do Fonoaudiólogo"
+	},
+	{
+		"mes": 12,
+		"dia": 10,
+		"comemoracao": [
+			"Dia da Inclusão Social",
+			"Dia do Palhaço no calendário das efemérides nacionais"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 11,
+		"comemoracao": [
+			"Dia Nacional da Câmara Junior",
+			"Dia Nacional das APAES"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 12,
+		"comemoracao": "Dia do Plano Nacional de Educação"
+	},
+	{
+		"mes": 12,
+		"dia": 13,
+		"comemoracao": [
+			"Dia do Cego",
+			"Dia Nacional do Forró"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 14,
+		"comemoracao": [
+			"Dia Nacional do Ministério Público",
+			"Dia Nacional de Combate à Pobreza",
+			"Dia Nacional do Engenheiro de Pesca"
+		]
+	},
+	{
+		"mes": 12,
+		"dia": 15,
+		"comemoracao": "Dia Nacional do Arquiteto e Urbanista"
+	},
+	{
+		"mes": 12,
+		"dia": 16,
+		"comemoracao": "Dia do Reservista"
+	},
+	{
+		"mes": 12,
+		"dia": 17,
+		"comemoracao": "Dia do Bioma Pampa"
+	},
+	{
+		"mes": 12,
+		"dia": 18,
+		"comemoracao": "Dia Nacional do Museólogo"
+	},
+	{
+		"mes": 12,
+		"dia": 21,
+		"comemoracao": "Dia do Atleta"
+	},
+	{
+		"mes": 12,
+		"dia": 24,
+		"comemoracao": "Dia do Órfão"
+	},
+	{
+		"mes": 12,
+		"dia": 25,
+		"comemoracao": "Dia de Natal"
+	},
+	{
+		"mes": 12,
+		"dia": 28,
+		"comemoracao": [
+			"Dia da Marinha Mercante",
+			"Dia do Petroquímico",
+			"Dia de Mauá",
+			"Dia Nacional do Cooperativismo de Crédito"
+		]
+	}
+]

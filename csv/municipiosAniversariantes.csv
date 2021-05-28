@@ -2,22 +2,13 @@
 "AM",130080,"Borba",1,1
 "PA",150611,"Quatipuru",1,1
 "PA",150796,"Terra Alta",1,1
-"TO",170384,"Campos Lindos",1,1
 "TO",170770,"Filadélfia",1,1
 "TO",171370,"Monte Santo do Tocantins",1,1
-"TO",171720,"Piraquê",1,1
 "TO",172049,"São Valério",1,1
 "TO",172130,"Tupiratins",1,1
-"MA",210083,"Apicum-Açu",1,1
-"MA",210207,"Bom Lugar",1,1
 "MA",210237,"Cachoeira Grande",1,1
-"MA",210275,"Capinzal do Norte",1,1
 "MA",210390,"Duque Bacelar",1,1
 "MA",210570,"Lago da Pedra",1,1
-"MA",210635,"Marajá do Sena",1,1
-"MA",210845,"Peritoró",1,1
-"MA",210927,"Presidente Sarney",1,1
-"MA",211178,"Serrano do Maranhão",1,1
 "PI",220005,"Acauã",1,1
 "PI",220030,"Alto Longá",1,1
 "PI",220860,"Prata do Piauí",1,1
@@ -30,6 +21,7 @@
 "PE",261280,"Santa Terezinha",1,1
 "PE",261510,"Terezinha",1,1
 "AL",270290,"Girau do Ponciano",1,1
+"AL",270300,"Ibateguara",1,1
 "SE",280670,"São Cristóvão",1,1
 "MG",310020,"Abaeté",1,1
 "MG",310050,"Açucena",1,1
@@ -106,8 +98,7 @@
 "MG",317052,"Urucuia",1,1
 "MG",317110,"Veríssimo",1,1
 "MG",317190,"Virgolândia",1,1
-"ES",320265,"Irupi",1,1
-"SP",355590,"Uru",1,1
+"SP",354625,"Santa Cruz da Esperança",1,1
 "PR",410337,"Brasilândia do Sul",1,1
 "SC",422000,"Balneário Rincão",1,1
 "RS",431190,"Marcelino Ramos",1,1
@@ -120,7 +111,6 @@
 "PB",250650,"Gurjão",2,1
 "AL",270460,"Maravilha",2,1
 "MG",311220,"Capela Nova",2,1
-"ES",320140,"Castelo",2,1
 "PA",150080,"Ananindeua",3,1
 "CE",230710,"Jardim",3,1
 "RN",240350,"Espírito Santo",4,1
@@ -132,6 +122,7 @@
 "RS",431810,"São Francisco de Assis",4,1
 "GO",521900,"Sanclerlândia",5,1
 "PA",150820,"Vigia",6,1
+"MA",210770,"Paraibano",6,1
 "PE",260700,"Inajá",6,1
 "PE",261420,"Sirinhaém",6,1
 "ES",320020,"Alegre",6,1
@@ -146,7 +137,6 @@
 "MG",314860,"Peçanha",7,1
 "ES",320330,"Mantenópolis",7,1
 "RS",431820,"São Francisco de Paula",7,1
-"MA",211230,"Tuntum",8,1
 "BA",290515,"Caetanos",8,1
 "PR",410322,"Bom Sucesso do Sul",8,1
 "PR",411450,"Manoel Ribas",8,1
@@ -177,7 +167,6 @@
 "TO",170310,"Barrolândia",11,1
 "PB",251710,"Várzea",11,1
 "PA",150140,"Belém",12,1
-"AL",270320,"Igreja Nova",12,1
 "SP",352120,"Iporanga",12,1
 "MT",510650,"Poconé",12,1
 "MA",211190,"Sucupira do Norte",13,1
@@ -200,7 +189,6 @@
 "RJ",330370,"Paraíba do Sul",15,1
 "RS",432280,"Veranópolis",15,1
 "MG",316180,"São Gonçalo do Pará",16,1
-"ES",320515,"Vila Pavão",16,1
 "GO",520055,"Alto Horizonte",16,1
 "GO",520505,"Castelândia",16,1
 "GO",521205,"Jesúpolis",16,1
@@ -215,14 +203,15 @@
 "MA",210420,"Fortuna",18,1
 "RJ",330475,"São Francisco de Itabapoana",18,1
 "RS",430710,"Herval",18,1
+"TO",170384,"Campos Lindos",19,1
 "MA",210490,"Guimarães",19,1
 "PI",220375,"Fartura do Piauí",19,1
 "RN",240190,"Caiçara do Rio do Vento",19,1
 "RN",240960,"Pedra Preta",19,1
 "MG",316880,"Tiradentes",19,1
 "SP",354100,"Praia Grande",19,1
+"PA",150520,"Oeiras do Pará",20,1
 "PA",150790,"Soure",20,1
-"TO",170388,"Carmolândia",20,1
 "MA",210040,"Altamira do Maranhão",20,1
 "MA",210520,"Igarapé Grande",20,1
 "MA",210810,"Paulo Ramos",20,1
@@ -241,7 +230,6 @@
 "SP",351070,"Cardoso",20,1
 "SP",352200,"Itaju",20,1
 "SP",353205,"Motuca",20,1
-"SP",353530,"Palmital",20,1
 "SP",353625,"Parisi",20,1
 "SP",353880,"Piraju",20,1
 "SP",354460,"Sabino",20,1
@@ -283,6 +271,7 @@
 "SP",355660,"Vera Cruz",25,1
 "PR",410230,"Balsa Nova",25,1
 "PR",410910,"Guaporema",25,1
+"MA",210870,"Pio XII",26,1
 "PI",220045,"Alvorada do Gurguéia",26,1
 "PI",220117,"Barra D'Alcântara",26,1
 "PI",220155,"Bela Vista do Piauí",26,1
@@ -328,10 +317,11 @@
 "AM",130060,"Benjamin Constant",29,1
 "PA",150555,"Pau D'Arco",29,1
 "PI",220779,"Pau D'Arco do Piauí",29,1
+"RN",240750,"Maxaranguape",29,1
 "MG",316710,"Serro",29,1
-"ES",320313,"João Neiva",29,1
+"ES",320050,"Apiacá",29,1
 "PR",411950,"Piraquara",29,1
-"TO",170040,"Almas",30,1
+"MA",210680,"Mirinzal",30,1
 "PB",250730,"Jacaraú",30,1
 "SE",280270,"Ilha das Flores",30,1
 "MG",312770,"Governador Valadares",30,1
@@ -345,15 +335,14 @@
 "MG",316280,"São João Evangelista",31,1
 "MG",316840,"Tarumirim",31,1
 "ES",320305,"Jaguaré",31,1
-"ES",320435,"Rio Bananal",31,1
 "SP",350510,"Barbosa",31,1
 "PR",411573,"Mato Rico",31,1
 "RS",430390,"Campo Bom",31,1
 "RS",431670,"Santa Bárbara do Sul",31,1
 "GO",520465,"Campinaçu",31,1
+"AM",130195,"Itamarati",1,2
 "AM",130406,"Tabatinga",1,2
 "TO",172208,"Wanderlândia",1,2
-"MA",210680,"Mirinzal",1,2
 "CE",231135,"Quixelô",1,2
 "AL",270040,"Atalaia",1,2
 "MG",314465,"Ninheira",1,2
@@ -390,7 +379,6 @@
 "PR",410580,"Colombo",5,2
 "MT",510130,"Arenápolis",5,2
 "MT",510600,"Nortelândia",5,2
-"SE",280340,"Japoatã",6,2
 "SE",280760,"Umbaúba",6,2
 "RJ",330020,"Araruama",6,2
 "SE",280570,"Propriá",7,2
@@ -399,14 +387,11 @@
 "CE",230480,"Granjeiro",9,2
 "TO",170382,"Cachoeirinha",10,2
 "TO",170740,"Esperantina",10,2
-"TO",171090,"Itapiratins",10,2
-"TO",171190,"Lagoa da Confusão",10,2
 "TO",171195,"Lagoa do Tocantins",10,2
+"TO",171280,"Maurilândia do Tocantins",10,2
 "TO",171380,"Palmeiras do Tocantins",10,2
-"TO",171525,"Novo Jardim",10,2
 "TO",171630,"Pau D'Arco",10,2
 "TO",172010,"São Bento do Tocantins",10,2
-"TO",172093,"Taipas do Tocantins",10,2
 "MA",211160,"São Raimundo das Mangabeiras",10,2
 "RN",241410,"Tenente Ananias",10,2
 "MG",316890,"Tiros",10,2
@@ -483,24 +468,29 @@
 "TO",170105,"Angico",20,2
 "TO",170215,"Araguanã",20,2
 "TO",170330,"Bom Jesus do Tocantins",20,2
+"TO",170360,"Brasilândia do Tocantins",20,2
 "TO",170386,"Cariri do Tocantins",20,2
+"TO",170388,"Carmolândia",20,2
 "TO",170389,"Carrasco Bonito",20,2
 "TO",170410,"Centenário",20,2
 "TO",170825,"Tabocão",20,2
+"TO",171190,"Lagoa da Confusão",20,2
 "TO",171270,"Mateiros",20,2
-"TO",171280,"Maurilândia do Tocantins",20,2
+"TO",171525,"Novo Jardim",20,2
 "TO",171570,"Palmeirante",20,2
+"TO",171720,"Piraquê",20,2
 "TO",171855,"Riachinho",20,2
 "TO",171865,"Rio da Conceição",20,2
+"TO",172015,"São Félix do Tocantins",20,2
 "TO",172020,"São Miguel do Tocantins",20,2
 "TO",172025,"São Salvador do Tocantins",20,2
 "TO",172085,"Sucupira",20,2
+"TO",172093,"Taipas do Tocantins",20,2
 "BA",291300,"Ibitiara",20,2
 "BA",291870,"Lafaiete Coutinho",20,2
 "SC",421970,"Xaxim",20,2
 "PI",220520,"Jaicós",21,2
 "SC",421600,"São Carlos",21,2
-"TO",172015,"São Félix do Tocantins",22,2
 "PE",260330,"Calçado",22,2
 "BA",290010,"Abaíra",22,2
 "BA",290350,"Belo Campo",22,2
@@ -765,7 +755,6 @@
 "RN",240230,"Caraúbas",5,3
 "MG",312010,"Couto de Magalhães de Minas",5,3
 "RJ",330050,"Bom Jardim",5,3
-"SP",352042,"Ilha Comprida",5,3
 "SP",352725,"Lourdes",5,3
 "SP",354290,"Ribeirão Bonito",5,3
 "SC",420250,"Bom Jardim da Serra",5,3
@@ -777,6 +766,7 @@
 "AM",130240,"Lábrea",7,3
 "PB",250490,"Cruz do Espírito Santo",7,3
 "MG",310210,"Alto Rio Doce",7,3
+"RJ",330230,"Laje do Muriaé",7,3
 "SP",353900,"Pirangi",7,3
 "SP",355450,"Tietê",8,3
 "CE",230680,"Jaguaribara",9,3
@@ -813,7 +803,6 @@
 "SC",420690,"Ibirama",11,3
 "PE",260960,"Olinda",12,3
 "PE",261160,"Recife",12,3
-"SE",280200,"Divina Pastora",12,3
 "SE",280410,"Moita Bonita",12,3
 "SE",280610,"Rosário do Catete",12,3
 "SP",352265,"Itapirapuã Paulista",12,3
@@ -844,6 +833,7 @@
 "MA",210675,"Miranda do Norte",15,3
 "RN",240800,"Mossoró",15,3
 "PE",260640,"Gravatá",15,3
+"SE",280240,"Gararu",15,3
 "BA",290090,"Almadina",15,3
 "BA",292590,"Quijingue",15,3
 "RJ",330140,"Conceição de Macabu",15,3
@@ -856,6 +846,7 @@
 "MG",314600,"Ouro Fino",16,3
 "MG",315820,"Santa Maria do Suaçuí",16,3
 "RJ",330390,"Petrópolis",16,3
+"SP",351130,"Cedral",16,3
 "SP",351850,"Guareí",16,3
 "SP",355070,"São Sebastião",16,3
 "SC",420400,"Catanduvas",16,3
@@ -864,6 +855,7 @@
 "SE",280030,"Aracaju",17,3
 "RJ",330450,"Rio das Flores",17,3
 "SP",352060,"Indiana",17,3
+"AL",270500,"Mata Grande",18,3
 "MG",315780,"Santa Luzia",18,3
 "SP",352420,"Jaborandi",18,3
 "PR",412750,"Tibagi",18,3
@@ -889,12 +881,12 @@
 "SP",350910,"Caiuá",19,3
 "SP",351270,"Corumbataí",19,3
 "SP",351310,"Cravinhos",19,3
+"SP",351360,"Cunha",19,3
 "SP",351580,"Flora Rica",19,3
 "SP",352560,"João Ramalho",19,3
 "SP",352960,"Meridiano",19,3
 "SP",353540,"Panorama",19,3
 "SP",354330,"Ribeirão Pires",19,3
-"SP",354950,"São José da Bela Vista",19,3
 "SP",354970,"São José do Rio Pardo",19,3
 "SP",354980,"São José do Rio Preto",19,3
 "SP",355310,"Taiaçu",19,3
@@ -918,6 +910,7 @@
 "BA",292405,"Pé de Serra",20,3
 "MG",312570,"Felixlândia",20,3
 "MG",313410,"Itueta",20,3
+"ES",320503,"Vargem Alta",20,3
 "SP",353830,"Piquerobi",20,3
 "PR",410600,"Congonhinhas",20,3
 "PR",411915,"Pinhais",20,3
@@ -1035,7 +1028,6 @@
 "SP",354210,"Rafard",21,3
 "SP",354320,"Ribeirão do Sul",21,3
 "SP",354430,"Roseira",21,3
-"SP",354610,"Santa Clara d'Oeste",21,3
 "SP",354650,"Santa Ernestina",21,3
 "SP",354720,"Santana da Ponte Pensa",21,3
 "SP",355390,"Tarabai",21,3
@@ -1048,6 +1040,8 @@
 "MA",210140,"Balsas",22,3
 "BA",290420,"Botuporã",22,3
 "SP",350260,"Aparecida d'Oeste",22,3
+"SP",350335,"Arco-Íris",22,3
+"SP",350995,"Canas",22,3
 "SP",353300,"Nova Granada",22,3
 "SP",353400,"Onda Verde",22,3
 "SP",354085,"Pracinha",22,3
@@ -1059,7 +1053,6 @@
 "RS",431940,"São Pedro do Sul",22,3
 "RN",240100,"Apodi",23,3
 "MG",312780,"Grão Mogol",23,3
-"ES",320517,"Vila Valério",23,3
 "SP",353480,"Ouro Verde",23,3
 "SP",355680,"Viradouro",23,3
 "SC",420540,"Florianópolis",23,3
@@ -1077,6 +1070,7 @@
 "AM",130280,"Maraã",25,3
 "PA",150110,"Bagre",25,3
 "MA",210010,"Afonso Cunha",25,3
+"MA",211040,"São Benedito do Rio Preto",25,3
 "PI",221040,"São Miguel do Tapuio",25,3
 "CE",230330,"Cariús",25,3
 "CE",230450,"Frecheirinha",25,3
@@ -1097,11 +1091,12 @@
 "CE",231390,"Uruoca",26,3
 "RN",240090,"Antônio Martins",26,3
 "RN",240210,"Campo Redondo",26,3
+"RN",240390,"Francisco Dantas",26,3
 "RN",240410,"Galinhos",26,3
 "RN",240500,"Jaçanã",26,3
-"RN",240640,"Lagoa de Velhos",26,3
 "RN",240860,"Paraná",26,3
 "RN",241110,"Ruy Barbosa",26,3
+"RN",241240,"São José do Seridó",26,3
 "RN",241480,"Vera Cruz",26,3
 "BA",291470,"Itaberaba",26,3
 "BA",292840,"Santa Rita de Cássia",26,3
@@ -1122,6 +1117,7 @@
 "CE",230393,"Choró",27,3
 "CE",230445,"Fortim",27,3
 "CE",230625,"Itaitinga",27,3
+"RN",241440,"Touros",27,3
 "BA",292330,"Ouriçangas",27,3
 "MG",311030,"Caldas",27,3
 "MG",316150,"São Geraldo",27,3
@@ -1129,14 +1125,14 @@
 "SP",352370,"Itirapuã",27,3
 "SP",352850,"Mairiporã",27,3
 "SP",354130,"Presidente Epitácio",27,3
+"SP",355700,"Votorantim",27,3
 "PR",412820,"União da Vitória",27,3
 "PA",150090,"Augusto Corrêa",28,3
-"MA",211250,"Tutóia",28,3
 "RN",240070,"Alto do Rodrigues",28,3
-"SE",280240,"Gararu",28,3
 "SE",280280,"Indiaroba",28,3
 "SE",280320,"Itaporanga d'Ajuda",28,3
 "SE",280430,"Muribeca",28,3
+"ES",320517,"Vila Valério",28,3
 "RJ",330100,"Campos dos Goytacazes",28,3
 "SP",351400,"Dobrada",28,3
 "SP",351510,"Embu-Guaçu",28,3
@@ -1148,9 +1144,12 @@
 "RS",431620,"Rondinha",28,3
 "MA",210090,"Araioses",29,3
 "MA",210150,"Barão de Grajaú",29,3
+"MA",210170,"Barreirinhas",29,3
 "MA",210320,"Chapadinha",29,3
+"MA",210610,"Loreto",29,3
 "MA",210670,"Mirador",29,3
 "MA",211060,"São Bernardo",29,3
+"MA",211250,"Tutóia",29,3
 "MA",211270,"Vargem Grande",29,3
 "CE",230140,"Aratuba",29,3
 "BA",292740,"Salvador",29,3
@@ -1161,6 +1160,7 @@
 "MT",510452,"Ipiranga do Norte",29,3
 "GO",520005,"Abadia de Goiás",29,3
 "AC",120038,"Plácido de Castro",30,3
+"AM",130006,"Amaturá",30,3
 "MA",211050,"São Bento",30,3
 "PI",220980,"São Gonçalo do Piauí",30,3
 "PB",251100,"Pedra Branca",30,3
@@ -1198,7 +1198,6 @@
 "ES",320501,"Sooretama",31,3
 "SP",350720,"Borá",31,3
 "SP",351540,"Fartura",31,3
-"SP",354625,"Santa Cruz da Esperança",31,3
 "SC",420127,"Arabutã",31,3
 "SC",420768,"Ipuaçu",31,3
 "RS",430680,"Encantado",31,3
@@ -1232,11 +1231,13 @@
 "SP",352440,"Jacareí",3,4
 "SP",353960,"Planalto",3,4
 "SP",354250,"Reginópolis",3,4
+"SP",354950,"São José da Bela Vista",3,4
 "SC",420140,"Araranguá",3,4
 "SC",421750,"Seara",3,4
 "RS",431420,"Pedro Osório",3,4
 "RS",431760,"Santo Antônio da Patrulha",3,4
 "MT",510454,"Itanhangá",3,4
+"PA",150700,"Santo Antônio do Tauá",4,4
 "RN",240360,"Extremoz",4,4
 "RN",240430,"Governador Dix-Sept Rosado",4,4
 "PB",250480,"Coremas",4,4
@@ -1251,6 +1252,7 @@
 "SP",352900,"Marília",4,4
 "RS",431830,"São Gabriel",4,4
 "PA",150420,"Marabá",5,4
+"PA",150770,"São Sebastião da Boa Vista",5,4
 "MA",211210,"Timbiras",5,4
 "PI",220340,"Dom Expedito Lopes",5,4
 "RN",241040,"Pureza",5,4
@@ -1315,6 +1317,7 @@
 "MA",210780,"Parnarama",10,4
 "PI",220180,"Bocaina",10,4
 "ES",320070,"Atílio Vivácqua",10,4
+"ES",320080,"Baixo Guandu",10,4
 "RJ",330015,"Aperibé",10,4
 "RJ",330022,"Areal",10,4
 "RJ",330452,"Rio das Ostras",10,4
@@ -1331,7 +1334,6 @@
 "TO",170930,"Guaraí",11,4
 "PI",220985,"São João da Canabrava",11,4
 "RN",240010,"Acari",11,4
-"RN",241440,"Touros",11,4
 "PE",261340,"São José da Coroa Grande",11,4
 "PE",261590,"Tuparetama",11,4
 "BA",291185,"Heliópolis",11,4
@@ -1431,6 +1433,7 @@
 "MA",210120,"Bacabal",17,4
 "PB",250660,"Ibiara",17,4
 "BA",290330,"Barro Preto",17,4
+"ES",320450,"Santa Leopoldina",17,4
 "RJ",330530,"São Sebastião do Alto",17,4
 "SP",352520,"Jarinu",17,4
 "PR",411535,"Maripá",17,4
@@ -1443,10 +1446,11 @@
 "PI",220380,"Flores do Piauí",18,4
 "BA",290170,"Antônio Cardoso",18,4
 "BA",292390,"Pau Brasil",18,4
-"ES",320080,"Baixo Guandu",18,4
 "ES",320290,"Itarana",18,4
 "SP",350640,"Bilac",18,4
 "PR",410754,"Espigão Alto do Iguaçu",18,4
+"PA",150020,"Acará",19,4
+"PA",150304,"Floresta do Araguaia",19,4
 "MA",211290,"Vitória do Mearim",19,4
 "BA",292050,"Maracás",19,4
 "RJ",330480,"São Fidélis",19,4
@@ -1460,7 +1464,6 @@
 "BA",290710,"Carinhanha",20,4
 "SP",350055,"Águas de Santa Bárbara",20,4
 "SP",351050,"Caraguatatuba",20,4
-"SP",351360,"Cunha",20,4
 "SP",353580,"Paranapanema",20,4
 "PR",410775,"Figueira",20,4
 "RS",430367,"Campestre da Serra",20,4
@@ -1468,12 +1471,11 @@
 "RS",431125,"Lagoão",20,4
 "RS",431795,"Santo Expedito do Sul",20,4
 "RS",432218,"Tupanci do Sul",20,4
-"PA",150304,"Floresta do Araguaia",21,4
-"PA",150442,"Marituba",21,4
 "TO",170550,"Colinas do Tocantins",21,4
 "SP",350690,"Bofete",21,4
 "SP",351200,"Colina",21,4
 "SP",352710,"Lins",21,4
+"SP",353530,"Palmital",21,4
 "PR",412020,"Porto Rico",21,4
 "SC",420830,"Itapema",21,4
 "SC",421910,"Vargeão",21,4
@@ -1550,7 +1552,6 @@
 "MG",314915,"Pedras de Maria da Cruz",27,4
 "MG",315725,"Santa Bárbara do Leste",27,4
 "MG",316255,"São João do Manhuaçu",27,4
-"SP",350715,"Bom Sucesso de Itararé",27,4
 "PR",410045,"Altamira do Paraná",27,4
 "RO",110180,"Vale do Paraíso",28,4
 "AC",120001,"Acrelândia",28,4
@@ -1670,7 +1671,6 @@
 "PB",250250,"Boqueirão",30,4
 "PB",251010,"Nova Floresta",30,4
 "PB",251640,"Tacima",30,4
-"PE",260570,"Floresta",30,4
 "PE",261300,"São Bento do Una",30,4
 "RS",430700,"Erechim",30,4
 "MS",500480,"Japorã",30,4
@@ -1696,6 +1696,7 @@
 "RS",431950,"São Sebastião do Caí",1,5
 "MS",500280,"Caracol",1,5
 "MT",510590,"Nobres",1,5
+"MA",210260,"Cândido Mendes",2,5
 "PI",220400,"Francinópolis",2,5
 "PB",251700,"Umbuzeiro",2,5
 "MG",310490,"Baependi",2,5
@@ -1736,10 +1737,13 @@
 "PA",150145,"Belterra",4,5
 "PE",260790,"Jaboatão dos Guararapes",4,5
 "SE",280210,"Estância",4,5
+"SP",352880,"Maracaí",4,5
 "RS",430880,"General Câmara",4,5
 "RS",430905,"Glorinha",4,5
 "MS",500440,"Inocência",4,5
 "TO",171200,"Lajeado",5,5
+"TO",171850,"Recursolândia",5,5
+"TO",171870,"Rio dos Bois",5,5
 "CE",230533,"Ibicuitinga",5,5
 "PB",250077,"Aparecida",5,5
 "PB",250135,"Assunção",5,5
@@ -1764,9 +1768,7 @@
 "PE",261390,"Serra Talhada",6,5
 "PE",261640,"Vitória de Santo Antão",6,5
 "BA",291250,"Ibipitanga",6,5
-"ES",320450,"Santa Leopoldina",6,5
 "ES",320455,"Santa Maria de Jetibá",6,5
-"ES",320506,"Venda Nova do Imigrante",6,5
 "SP",352160,"Irapuru",6,5
 "PR",411420,"Mandaguari",6,5
 "RS",431370,"Palmeira das Missões",6,5
@@ -1789,7 +1791,6 @@
 "CE",231000,"Palhano",8,5
 "RN",240550,"Jardim de Angicos",8,5
 "RN",240760,"Messias Targino",8,5
-"RN",240880,"Parazinho",8,5
 "PB",250160,"Barra de Santa Rosa",8,5
 "PB",250740,"Jericó",8,5
 "BA",292060,"Maragogipe",8,5
@@ -1857,18 +1858,19 @@
 "PA",150658,"Santa Maria das Barreiras",10,5
 "PA",150745,"São Geraldo do Araguaia",10,5
 "PA",150747,"São João de Pirabas",10,5
-"PA",150750,"São João do Araguaia",10,5
 "PA",150795,"Tailândia",10,5
 "PA",150808,"Tucumã",10,5
 "MA",211090,"São Francisco do Maranhão",10,5
 "RN",240320,"Doutor Severiano",10,5
 "RN",240870,"Paraú",10,5
+"RN",240910,"Passa e Fica",10,5
 "RN",240980,"Pedro Velho",10,5
 "RN",241080,"Riacho de Santana",10,5
 "RN",241430,"Timbaúba dos Batistas",10,5
 "BA",292805,"Santa Luzia",10,5
 "ES",320016,"Água Doce do Norte",10,5
-"ES",320503,"Vargem Alta",10,5
+"ES",320316,"Laranja da Terra",10,5
+"ES",320506,"Venda Nova do Imigrante",10,5
 "RJ",330220,"Itaperuna",10,5
 "PR",411520,"Maringá",10,5
 "SC",420455,"Correia Pinto",10,5
@@ -1878,15 +1880,15 @@
 "RO",110013,"Machadinho D'Oeste",11,5
 "RO",110029,"Santa Luzia D'Oeste",11,5
 "PA",150405,"Mãe do Rio",11,5
-"MA",210240,"Cajapió",11,5
 "MA",210730,"Nova Iorque",11,5
 "CE",230205,"Barroquinha",11,5
 "RN",240170,"Bom Jesus",11,5
 "RN",240620,"Lagoa d'Anta",11,5
+"RN",240640,"Lagoa de Velhos",11,5
 "RN",241270,"São Pedro",11,5
 "ES",320013,"Águia Branca",11,5
 "ES",320035,"Alto Rio Novo",11,5
-"ES",320225,"Governador Lindenberg",11,5
+"ES",320313,"João Neiva",11,5
 "PR",412035,"Pranchita",11,5
 "RS",432260,"Venâncio Aires",11,5
 "GO",520140,"Aparecida de Goiânia",11,5
@@ -1934,7 +1936,6 @@
 "PA",150618,"Rondon do Pará",13,5
 "PA",150840,"Xinguara",13,5
 "PI",220350,"Elesbão Veloso",13,5
-"RN",240910,"Passa e Fica",13,5
 "RN",241335,"Serra do Mel",13,5
 "PE",260345,"Camaragibe",13,5
 "PE",261290,"São Benedito do Sul",13,5
@@ -1989,7 +1990,6 @@
 "PE",260005,"Abreu e Lima",14,5
 "PE",260775,"Itapissuma",14,5
 "PE",260990,"Ouricuri",14,5
-"PE",261410,"Sertânia",14,5
 "BA",292190,"Mucugê",14,5
 "BA",292990,"Seabra",14,5
 "MG",314790,"Passos",14,5
@@ -2013,6 +2013,7 @@
 "GO",521975,"Santo Antônio do Descoberto",14,5
 "AM",130170,"Humaitá",15,5
 "AM",130270,"Manicoré",15,5
+"TO",171090,"Itapiratins",15,5
 "CE",231123,"Potiretama",15,5
 "CE",231150,"Quixeré",15,5
 "PB",250470,"Congo",15,5
@@ -2030,15 +2031,16 @@
 "RO",110006,"Colorado do Oeste",16,5
 "RO",110025,"Presidente Médici",16,5
 "AL",270230,"Coruripe",16,5
+"AL",270320,"Igreja Nova",16,5
 "AL",270550,"Murici",16,5
 "AL",270850,"São Luís do Quitunde",16,5
 "AL",270920,"Traipu",16,5
 "MG",314390,"Muriaé",16,5
 "MG",316290,"São João Nepomuceno",16,5
-"ES",320316,"Laranja da Terra",16,5
 "RJ",330340,"Nova Friburgo",16,5
 "RJ",330520,"São Pedro da Aldeia",16,5
 "PR",411705,"Nova Laranjeiras",16,5
+"PE",260950,"Nazaré da Mata",17,5
 "MG",311470,"Carvalhópolis",17,5
 "PR",412865,"Virmond",17,5
 "SC",420230,"Biguaçu",17,5
@@ -2091,6 +2093,7 @@
 "PE",260230,"Bonito",20,5
 "PE",261500,"Taquaritinga do Norte",20,5
 "SP",353780,"Piedade",20,5
+"SP",354610,"Santa Clara d'Oeste",20,5
 "SC",421120,"Morro da Fumaça",20,5
 "RS",430780,"Estrela",20,5
 "MG",316920,"Tombos",21,5
@@ -2131,6 +2134,7 @@
 "PI",220620,"Miguel Alves",24,5
 "PE",260050,"Águas Belas",24,5
 "PE",260520,"Escada",24,5
+"PE",261410,"Sertânia",24,5
 "MG",311060,"Cambuí",24,5
 "MG",314670,"Palma",24,5
 "MG",314800,"Patos de Minas",24,5
@@ -2169,8 +2173,8 @@
 "SC",421870,"Tubarão",27,5
 "RS",430950,"Guarani das Missões",27,5
 "PA",150430,"Maracanã",28,5
-"PA",150490,"Muaná",28,5
 "BA",293010,"Senhor do Bonfim",28,5
+"ES",320480,"São José do Calçado",28,5
 "SP",355620,"Valinhos",28,5
 "RS",431170,"Machadinho",28,5
 "RS",432290,"Viadutos",28,5
@@ -2196,6 +2200,7 @@
 "RS",431780,"Santo Augusto",30,5
 "AM",130390,"São Paulo de Olivença",31,5
 "PE",260020,"Afrânio",31,5
+"AL",270150,"Campo Grande",31,5
 "AL",270420,"Limoeiro de Anadia",31,5
 "AL",270680,"Piaçabuçu",31,5
 "BA",291460,"Irecê",31,5
@@ -2203,6 +2208,7 @@
 "MG",313790,"Lamim",31,5
 "MG",315980,"Santa Vitória",31,5
 "MG",316200,"São Gonçalo do Sapucaí",31,5
+"ES",320140,"Castelo",31,5
 "RS",430380,"Campinas do Sul",31,5
 "RS",430810,"Feliz",31,5
 "RS",431260,"Muçum",31,5
@@ -2272,6 +2278,7 @@
 "MG",315420,"Resende Costa",2,6
 "PR",412780,"Tomazina",2,6
 "MT",510410,"Guarantã do Norte",2,6
+"MA",210290,"Carutapera",3,6
 "PB",250290,"Brejo dos Santos",3,6
 "PE",260040,"Água Preta",3,6
 "AL",270710,"Piranhas",3,6
@@ -2289,8 +2296,6 @@
 "MG",312020,"Cristais",4,6
 "SP",354050,"Porangaba",4,6
 "RS",432020,"Seberi",4,6
-"TO",171870,"Rio dos Bois",5,6
-"AL",270500,"Mata Grande",5,6
 "ES",320180,"Divino de São Lourenço",5,6
 "PR",411342,"Lidianópolis",5,6
 "GO",520330,"Bela Vista de Goiás",5,6
@@ -2321,9 +2326,8 @@
 "AM",130050,"Barreirinha",9,6
 "PA",150530,"Oriximiná",9,6
 "TO",170220,"Araguatins",9,6
-"MA",210170,"Barreirinhas",9,6
 "MA",210310,"Cedral",9,6
-"MA",210430,"Godofredo Viana",9,6
+"MA",210920,"Presidente Juscelino",9,6
 "PI",220430,"Fronteiras",9,6
 "PE",261000,"Palmares",9,6
 "AL",270740,"Porto de Pedras",9,6
@@ -2358,15 +2362,15 @@
 "SC",421055,"Marema",11,6
 "MS",500540,"Maracaju",11,6
 "MA",211110,"São João dos Patos",12,6
+"MA",211140,"São Luís Gonzaga do Maranhão",12,6
 "PI",220900,"Rio Grande do Piauí",12,6
 "RN",240520,"Janduís",12,6
 "PE",260200,"Bodocó",12,6
 "AL",270210,"Colônia Leopoldina",12,6
 "SE",280710,"Simão Dias",12,6
 "MG",315990,"Santo Antônio do Amparo",12,6
-"ES",320190,"Domingos Martins",12,6
 "RJ",330205,"Italva",12,6
-"SP",354805,"Santo Antônio do Aracanguá",12,6
+"RJ",330415,"Quissamã",12,6
 "PR",410975,"Ibema",12,6
 "PR",411345,"Lindoeste",12,6
 "PR",411570,"Matinhos",12,6
@@ -2409,6 +2413,7 @@
 "MG",313960,"Mantena",13,6
 "MG",315720,"Santa Bárbara",13,6
 "MG",316000,"Santo Antônio do Aventureiro",13,6
+"ES",320440,"Rio Novo do Sul",13,6
 "RJ",330395,"Pinheiral",13,6
 "RJ",330470,"Santo Antônio de Pádua",13,6
 "SP",350010,"Adamantina",13,6
@@ -2427,10 +2432,12 @@
 "SP",354220,"Rancharia",13,6
 "SP",354790,"Santo Antônio da Alegria",13,6
 "SP",354800,"Santo Antônio de Posse",13,6
+"SP",354805,"Santo Antônio do Aracanguá",13,6
 "SP",354820,"Santo Antônio do Pinhal",13,6
 "SP",355255,"Suzanápolis",13,6
 "SP",355320,"Taiúva",13,6
 "SP",355580,"Urânia",13,6
+"SP",355590,"Uru",13,6
 "PR",411320,"Lapa",13,6
 "PR",412120,"Quitandinha",13,6
 "SC",421800,"Tijucas",13,6
@@ -2471,22 +2478,26 @@
 "RJ",330500,"São João da Barra",17,6
 "SP",355010,"São Manuel",17,6
 "GO",520050,"Aloândia",17,6
-"AL",270860,"São Miguel dos Campos",18,6
 "SP",350580,"Bastos",18,6
 "PR",410753,"Entre Rios do Oeste",18,6
 "PR",411845,"Pato Bragado",18,6
 "SC",420520,"Erval Velho",18,6
 "GO",521290,"Marzagão",18,6
 "RO",110014,"Nova Brasilândia D'Oeste",19,6
-"MA",210135,"Bacurituba",19,6
 "MA",210190,"Bequimão",19,6
+"MA",210240,"Cajapió",19,6
 "MA",210462,"Governador Luiz Rocha",19,6
+"MA",210927,"Presidente Sarney",19,6
+"MA",211023,"Santana do Maranhão",19,6
+"MA",211107,"São João do Soter",19,6
 "MA",211227,"Tufilândia",19,6
 "PI",220760,"Parnaguá",19,6
 "BA",290100,"Amargosa",19,6
 "BA",290685,"Capela do Alto Alegre",19,6
 "SP",354340,"Ribeirão Preto",19,6
 "TO",171660,"Peixe",20,6
+"MA",211027,"Santo Amaro do Maranhão",20,6
+"PE",260570,"Floresta",20,6
 "AL",270370,"Jaramataia",20,6
 "BA",290720,"Casa Nova",20,6
 "RJ",330310,"Natividade",20,6
@@ -2498,7 +2509,6 @@
 "CE",230420,"Crato",21,6
 "AL",270610,"Ouro Branco",21,6
 "SP",350200,"Analândia",21,6
-"SP",351130,"Cedral",21,6
 "SP",351920,"Iacri",21,6
 "SC",420710,"Ilhota",21,6
 "SC",420730,"Imbituba",21,6
@@ -2526,7 +2536,6 @@
 "SC",421460,"Rio do Oeste",23,6
 "GO",520630,"Cristianópolis",23,6
 "RO",110018,"Pimenta Bueno",24,6
-"PA",150770,"São Sebastião da Boa Vista",24,6
 "PB",251410,"São João do Tigre",24,6
 "MG",310410,"Arceburgo",24,6
 "MG",311340,"Caratinga",24,6
@@ -2535,7 +2544,6 @@
 "MG",313290,"Itamogi",24,6
 "MG",316220,"São João Batista do Glória",24,6
 "MG",316265,"São João do Pacuí",24,6
-"ES",320130,"Cariacica",24,6
 "SP",350110,"Alto Alegre",24,6
 "SP",350180,"Américo de Campos",24,6
 "SP",350410,"Atibaia",24,6
@@ -2544,12 +2552,10 @@
 "SP",351680,"Gastão Vidigal",24,6
 "SP",351930,"Ibaté",24,6
 "SP",351990,"Iepê",24,6
-"SP",352550,"Joanópolis",24,6
 "SP",352570,"José Bonifácio",24,6
 "SP",352740,"Lucélia",24,6
 "SP",353010,"Mirandópolis",24,6
 "SP",353260,"Nhandeara",24,6
-"SP",353475,"Ouroeste",24,6
 "SP",354040,"Populina",24,6
 "SP",354390,"Rio Claro",24,6
 "SP",354530,"Salto de Pirapora",24,6
@@ -2583,6 +2589,7 @@
 "BA",292510,"Poções",26,6
 "BA",292810,"Santa Maria da Vitória",26,6
 "MG",314320,"Monte Santo de Minas",26,6
+"ES",320460,"Santa Teresa",26,6
 "PR",412810,"Umuarama",26,6
 "MA",210100,"Arari",27,6
 "MA",210400,"Esperantinópolis",27,6
@@ -2600,6 +2607,7 @@
 "PR",410570,"Clevelândia",28,6
 "MG",313862,"Limeira do Oeste",29,6
 "MG",316400,"São Pedro dos Ferros",29,6
+"ES",320225,"Governador Lindenberg",29,6
 "SP",352750,"Lucianópolis",29,6
 "SP",353150,"Monte Azul Paulista",29,6
 "SP",353200,"Morungaba",29,6
@@ -2632,9 +2640,10 @@
 "PE",261100,"Petrolândia",1,7
 "BA",292700,"Rio Real",1,7
 "MG",312820,"Guaraciaba",1,7
+"ES",320515,"Vila Pavão",1,7
 "SP",350400,"Assis",1,7
 "RS",431050,"Iraí",1,7
-"AM",130006,"Amaturá",2,7
+"AM",130008,"Anamã",2,7
 "PB",250530,"Curral Velho",2,7
 "BA",290070,"Alagoinhas",2,7
 "BA",291960,"Macajuba",2,7
@@ -2643,6 +2652,7 @@
 "MG",314330,"Montes Claros",3,7
 "MG",316940,"Três Pontas",3,7
 "MG",316990,"Ubá",3,7
+"ES",320260,"Iconha",3,7
 "SP",350040,"Águas da Prata",3,7
 "GO",520551,"Cocalzinho de Goiás",3,7
 "RO",110145,"Parecis",4,7
@@ -2684,6 +2694,7 @@
 "SP",351560,"Fernando Prestes",5,7
 "RO",110032,"São Miguel do Guaporé",6,7
 "PA",150460,"Mocajuba",6,7
+"PA",150830,"Viseu",6,7
 "CE",230410,"Crateús",6,7
 "BA",290990,"Curaçá",6,7
 "BA",291980,"Macaúbas",6,7
@@ -2694,6 +2705,7 @@
 "MT",510080,"Apiacás",6,7
 "GO",521570,"Palmeiras de Goiás",6,7
 "PI",220160,"Beneditinos",7,7
+"AL",270750,"Porto Real do Colégio",7,7
 "SE",280480,"Nossa Senhora do Socorro",7,7
 "BA",290840,"Conceição do Coité",7,7
 "SC",420450,"Corupá",7,7
@@ -2707,7 +2719,6 @@
 "BA",290790,"Cipó",8,7
 "MG",314610,"Ouro Preto",8,7
 "MG",314660,"Paiva",8,7
-"ES",320340,"Mimoso do Sul",8,7
 "SC",421835,"Treviso",8,7
 "MT",510285,"Castanheira",8,7
 "RR",140010,"Boa Vista",9,7
@@ -2742,6 +2753,7 @@
 "RJ",330280,"Mendes",11,7
 "SP",350210,"Andradina",11,7
 "PR",412385,"Santa Maria do Oeste",11,7
+"RN",240880,"Parazinho",12,7
 "PE",260415,"Casinhas",12,7
 "PE",260915,"Manari",12,7
 "BA",290200,"Aracatu",12,7
@@ -2772,8 +2784,8 @@
 "PR",411070,"Irati",15,7
 "AM",130250,"Manacapuru",16,7
 "MA",210530,"Imperatriz",16,7
+"MA",210690,"Monção",16,7
 "RN",240185,"Caiçara do Norte",16,7
-"RN",240850,"Ouro Branco",16,7
 "RN",241255,"São Miguel do Gostoso",16,7
 "RN",241415,"Tenente Laurentino Cruz",16,7
 "PB",250760,"Juarez Távora",16,7
@@ -2796,7 +2808,6 @@
 "GO",521015,"Ipiranga de Goiás",16,7
 "GO",521380,"Morrinhos",16,7
 "GO",521860,"Rialma",16,7
-"MA",210690,"Monção",17,7
 "PB",250510,"Cuité",17,7
 "BA",290260,"Baixa Grande",17,7
 "BA",291200,"Ibiassucê",17,7
@@ -2814,7 +2825,6 @@
 "SC",421205,"Palmeira",18,7
 "MS",500660,"Ponta Porã",18,7
 "GO",520620,"Cristalina",18,7
-"MA",211023,"Santana do Maranhão",19,7
 "CE",230160,"Assaré",19,7
 "PE",260140,"Barreiros",19,7
 "BA",290020,"Abaré",19,7
@@ -2843,7 +2853,6 @@
 "MT",510830,"União do Sul",19,7
 "GO",521523,"Novo Gama",19,7
 "GO",521830,"Posse",19,7
-"TO",171850,"Recursolândia",20,7
 "RN",240770,"Montanhas",20,7
 "PB",251160,"Pilões",20,7
 "BA",291030,"Elísio Medrado",20,7
@@ -2966,6 +2975,7 @@
 "MG",316070,"Santos Dumont",27,7
 "SP",350070,"Agudos",27,7
 "SP",352510,"Jardinópolis",27,7
+"SP",353950,"Pitangueiras",27,7
 "SP",354990,"São José dos Campos",27,7
 "SC",421050,"Maravilha",27,7
 "SC",421340,"Ponte Serrada",27,7
@@ -3003,6 +3013,7 @@
 "RS",431310,"Nova Palma",29,7
 "GO",520440,"Caiapônia",29,7
 "GO",521180,"Jaraguá",29,7
+"MA",210635,"Marajá do Sena",30,7
 "RN",240260,"Ceará-Mirim",30,7
 "BA",290250,"Baianópolis",30,7
 "BA",290700,"Cardeal da Silva",30,7
@@ -3017,7 +3028,6 @@
 "MG",312090,"Curvelo",30,7
 "RS",431710,"Sant'ana do Livramento",30,7
 "GO",521295,"Matrinchã",30,7
-"PA",150220,"Capanema",31,7
 "CE",230020,"Acaraú",31,7
 "CE",231340,"Tianguá",31,7
 "BA",291920,"Lauro de Freitas",31,7
@@ -3106,6 +3116,7 @@
 "GO",521385,"Morro Agudo de Goiás",10,8
 "PI",220790,"Pedro II",11,8
 "SP",353740,"Pereira Barreto",11,8
+"SP",353750,"Pereiras",11,8
 "SP",355400,"Tatuí",11,8
 "RS",431330,"Nova Prata",11,8
 "MT",510615,"Nova Bandeirantes",11,8
@@ -3121,13 +3132,10 @@
 "BA",290160,"Antas",13,8
 "BA",292640,"Riacho de Santana",13,8
 "SP",353230,"Natividade da Serra",13,8
-"PA",150130,"Barcarena",14,8
-"PA",150710,"São Caetano de Odivelas",14,8
 "PI",220770,"Parnaíba",14,8
 "CE",231140,"Quixeramobim",14,8
 "CE",231410,"Viçosa do Ceará",14,8
 "PE",260650,"Iati",14,8
-"AL",270150,"Campo Grande",14,8
 "BA",290190,"Aporá",14,8
 "BA",290300,"Barra do Mendes",14,8
 "BA",290500,"Caculé",14,8
@@ -3151,6 +3159,7 @@
 "MG",312270,"Dom Silvério",14,8
 "SP",350270,"Apiaí",14,8
 "PA",150010,"Abaetetuba",15,8
+"PA",150710,"São Caetano de Odivelas",15,8
 "BA",291400,"Ipirá",15,8
 "MG",310950,"Cabo Verde",15,8
 "MG",313030,"Iguatama",15,8
@@ -3158,7 +3167,6 @@
 "SP",352530,"Jaú",15,8
 "SP",353570,"Paraíso",15,8
 "SP",353700,"Pedregulho",15,8
-"SP",353950,"Pitangueiras",15,8
 "SP",354025,"Pontalinda",15,8
 "SP",355220,"Sorocaba",15,8
 "SC",420760,"Ipira",15,8
@@ -3169,7 +3177,6 @@
 "CE",230120,"Aracoiaba",16,8
 "BA",290540,"Cairu",16,8
 "MG",313330,"Itaobim",16,8
-"ES",320050,"Apiacá",16,8
 "SP",354670,"Santa Gertrudes",16,8
 "SP",354860,"São Bento do Sapucaí",16,8
 "SP",355060,"São Roque",16,8
@@ -3180,6 +3187,7 @@
 "CE",230190,"Barbalha",17,8
 "CE",230830,"Milagres",17,8
 "AL",270890,"Satuba",17,8
+"SP",352550,"Joanópolis",17,8
 "TO",171070,"Itaguatins",18,8
 "CE",230320,"Caririaçu",18,8
 "MG",315230,"Porto Firme",18,8
@@ -3197,7 +3205,6 @@
 "CE",230750,"Lavras da Mangabeira",20,8
 "AL",270050,"Barra de Santo Antônio",20,8
 "AL",270630,"Palmeira dos Índios",20,8
-"AL",270930,"União dos Palmares",20,8
 "BA",291260,"Ibiquera",20,8
 "SP",354370,"Rincão",20,8
 "SP",354870,"São Bernardo do Campo",20,8
@@ -3211,7 +3218,6 @@
 "RJ",330410,"Porciúncula",21,8
 "RJ",330510,"São João de Meriti",21,8
 "GO",520547,"Chapadão do Céu",21,8
-"PA",150100,"Aveiro",22,8
 "PI",220250,"Caracol",22,8
 "PI",220270,"Cocal",22,8
 "PB",250370,"Cajazeiras",22,8
@@ -3221,12 +3227,12 @@
 "ES",320150,"Colatina",22,8
 "ES",320320,"Linhares",22,8
 "SP",350320,"Araraquara",22,8
-"SP",350335,"Arco-Íris",22,8
 "SP",350780,"Brodowski",22,8
 "SP",352080,"Inúbia Paulista",22,8
 "SP",355365,"Taquaral",22,8
 "GO",522070,"Sítio d'Abadia",22,8
 "PA",150050,"Almeirim",23,8
+"PA",150100,"Aveiro",23,8
 "CE",231070,"Pentecoste",23,8
 "CE",231280,"Senador Sá",23,8
 "AL",270790,"Santa Luzia do Norte",23,8
@@ -3277,7 +3283,6 @@
 "GO",521920,"Santa Cruz de Goiás",27,8
 "PA",150470,"Moju",28,8
 "CE",231010,"Palmácia",28,8
-"RN",240130,"Campo Grande",28,8
 "AL",270080,"Belém",28,8
 "AL",270410,"Lagoa da Canoa",28,8
 "SE",280130,"Capela",28,8
@@ -3308,7 +3313,6 @@
 "MG",314770,"Passa Tempo",30,8
 "MG",316740,"Silvianópolis",30,8
 "MG",317170,"Virgínia",30,8
-"SP",352180,"Itaí",30,8
 "SC",421170,"Orleans",30,8
 "CE",230640,"Itapipoca",31,8
 "BA",290390,"Bom Jesus da Lapa",31,8
@@ -3316,10 +3320,10 @@
 "BA",291180,"Guaratinga",31,8
 "MG",311080,"Campanário",31,8
 "MG",317020,"Uberlândia",31,8
+"SP",352180,"Itaí",31,8
 "GO",522140,"Trindade",31,8
 "PA",150800,"Tomé-Açu",1,9
 "RN",240570,"Jardim do Seridó",1,9
-"PE",260070,"Aliança",1,9
 "BA",291340,"Igaporã",1,9
 "BA",291690,"Itiruçu",1,9
 "MG",311190,"Cana Verde",1,9
@@ -3344,6 +3348,7 @@
 "PI",220440,"Gilbués",4,9
 "PI",221080,"Simplício Mendes",4,9
 "CE",231120,"Potengi",4,9
+"RN",240130,"Campo Grande",4,9
 "RN",240940,"Pau dos Ferros",4,9
 "PE",261070,"Paulista",4,9
 "SP",354760,"Santa Rosa de Viterbo",4,9
@@ -3377,7 +3382,6 @@
 "MG",314170,"Mesquita",7,9
 "MG",314220,"Miraí",7,9
 "MG",316860,"Teófilo Otoni",7,9
-"RJ",330540,"Sapucaia",7,9
 "AM",130140,"Eirunepé",8,9
 "AP",160080,"Vitória do Jari",8,9
 "MA",211130,"São Luís",8,9
@@ -3396,11 +3400,13 @@
 "RS",430760,"Estância Velha",8,9
 "GO",521990,"São Francisco de Goiás",8,9
 "PI",220420,"Francisco Santos",9,9
+"RN",240720,"Macau",9,9
 "MG",313550,"Jequeri",9,9
 "SP",353360,"Nuporanga",9,9
 "MG",310430,"Areado",10,9
 "MG",311230,"Capelinha",10,9
 "MG",314510,"Nova Resende",10,9
+"SP",355230,"Sud Mennucci",10,9
 "PR",411400,"Mamborê",10,9
 "PR",412395,"Santa Mônica",10,9
 "SC",420740,"Imbuia",10,9
@@ -3410,6 +3416,7 @@
 "RS",432230,"Tuparendi",10,9
 "CE",230700,"Jaguaruana",11,9
 "PE",260030,"Agrestina",11,9
+"PE",260070,"Aliança",11,9
 "PE",260110,"Araripina",11,9
 "PE",260120,"Arcoverde",11,9
 "PE",260170,"Belo Jardim",11,9
@@ -3438,9 +3445,9 @@
 "SC",420780,"Irani",11,9
 "SC",420860,"Jaborá",11,9
 "MT",510490,"Jangada",11,9
+"MA",211230,"Tuntum",12,9
 "PI",220260,"Castelo do Piauí",12,9
 "BA",290770,"Chorrochó",12,9
-"ES",320090,"Barra de São Francisco",12,9
 "SP",352470,"Jaguariúna",12,9
 "SC",420380,"Canoinhas",12,9
 "GO",521010,"Ipameri",12,9
@@ -3455,7 +3462,7 @@
 "PB",251150,"Pilar",14,9
 "AL",270580,"Olho d'Água do Casado",14,9
 "MG",313920,"Malacacheta",14,9
-"RJ",330230,"Laje do Muriaé",14,9
+"ES",320435,"Rio Bananal",14,9
 "SP",354140,"Presidente Prudente",14,9
 "PR",410110,"Andirá",14,9
 "PR",411890,"Pérola",14,9
@@ -3490,10 +3497,11 @@
 "MG",313420,"Ituiutaba",16,9
 "MG",313490,"Jacutinga",16,9
 "MG",314280,"Monte Alegre de Minas",16,9
+"ES",320265,"Irupi",16,9
 "SP",353590,"Paranapuã",16,9
 "GO",520430,"Caçu",16,9
 "PI",221110,"União",17,9
-"RN",240370,"Felipe Guerra",17,9
+"RN",240895,"Rio do Fogo",17,9
 "AL",270440,"Major Isidoro",17,9
 "BA",290470,"Buerarema",17,9
 "MG",314350,"Morada Nova de Minas",17,9
@@ -3501,13 +3509,13 @@
 "RS",430060,"Alvorada",17,9
 "RS",431700,"Santana da Boa Vista",17,9
 "RN",240250,"Carnaubais",18,9
+"RN",240370,"Felipe Guerra",18,9
 "BA",291080,"Feira de Santana",18,9
 "MG",310110,"Aimorés",18,9
 "MG",312420,"Espera Feliz",18,9
 "MG",313780,"Lambari",18,9
 "PR",410304,"Boa Ventura de São Roque",18,9
 "MT",510350,"Diamantino",18,9
-"PA",150020,"Acará",19,9
 "PB",250910,"Mari",19,9
 "AL",270120,"Cacimbinhas",19,9
 "BA",291070,"Euclides da Cunha",19,9
@@ -3545,6 +3553,7 @@
 "PR",412560,"São Mateus do Sul",21,9
 "MS",500320,"Corumbá",21,9
 "MT",510794,"Tabaporã",21,9
+"PA",150442,"Marituba",22,9
 "CE",230510,"Guaramiranga",22,9
 "CE",230990,"Pacujá",22,9
 "BA",293100,"Tanhaçu",22,9
@@ -3562,7 +3571,6 @@
 "SC",421580,"São Bento do Sul",23,9
 "SC",421810,"Timbé do Sul",23,9
 "MA",210270,"Cantanhede",24,9
-"MA",210770,"Paraibano",24,9
 "MA",211070,"São Domingos do Maranhão",24,9
 "MA",211120,"São José de Ribamar",24,9
 "PI",220120,"Barras",24,9
@@ -3607,6 +3615,7 @@
 "CE",230030,"Acopiara",28,9
 "PE",260795,"Jaqueira",28,9
 "PE",260805,"Jatobá",28,9
+"PE",261485,"Tamandaré",28,9
 "BA",290570,"Camaçari",28,9
 "MG",310150,"Além Paraíba",28,9
 "MG",311120,"Campo Belo",28,9
@@ -3621,7 +3630,7 @@
 "PI",220920,"Santa Filomena",29,9
 "CE",230260,"Camocim",29,9
 "PE",261255,"Santa Filomena",29,9
-"PE",261485,"Tamandaré",29,9
+"AL",270860,"São Miguel dos Campos",29,9
 "BA",293290,"Valença",29,9
 "MG",313580,"Jequitinhonha",29,9
 "MG",315570,"Rio Piracicaba",29,9
@@ -3663,13 +3672,13 @@
 "PE",261618,"Vertente do Lério",1,10
 "PE",261650,"Xexéu",1,10
 "AL",270820,"São Brás",1,10
+"SP",352830,"Magda",1,10
 "SC",420640,"Guaraciaba",1,10
 "GO",520490,"Campos Belos",1,10
 "GO",521540,"Ouro Verde de Goiás",1,10
 "GO",522100,"Taquaral de Goiás",1,10
 "RO",110020,"Porto Velho",2,10
 "PA",150510,"Óbidos",2,10
-"RN",240720,"Macau",2,10
 "RN",241350,"Serrinha",2,10
 "PE",260370,"Canhotinho",2,10
 "MG",311090,"Campanha",2,10
@@ -3679,7 +3688,6 @@
 "GO",520170,"Aragarças",2,10
 "MA",210370,"Cururupu",3,10
 "RJ",330040,"Barra Mansa",3,10
-"SP",352830,"Magda",3,10
 "SP",354450,"Rubinéia",3,10
 "SC",421740,"Schroeder",3,10
 "PA",150290,"Curuçá",4,10
@@ -3694,14 +3702,15 @@
 "MG",312810,"Guapé",4,10
 "MG",314290,"Monte Azul",4,10
 "MG",315700,"Salinas",4,10
+"ES",320090,"Barra de São Francisco",4,10
 "RJ",330180,"Engenheiro Paulo de Frontin",4,10
 "SP",354380,"Rinópolis",4,10
 "PR",410395,"Campina do Simão",4,10
 "RS",430090,"Aratiba",4,10
 "RS",430520,"Cerro Largo",4,10
 "PA",150215,"Canaã dos Carajás",5,10
-"TO",171180,"Juarina",5,10
 "TO",171515,"Novo Alegre",5,10
+"TO",171620,"Paranã",5,10
 "AL",270255,"Estrela de Alagoas",5,10
 "AL",270644,"Paripueira",5,10
 "BA",291560,"Itamaraju",5,10
@@ -3743,7 +3752,6 @@
 "GO",520920,"Guapó",8,10
 "GO",520960,"Heitoraí",8,10
 "GO",521680,"Petrolina de Goiás",8,10
-"PE",260950,"Nazaré da Mata",9,10
 "BA",291720,"Ituaçu",9,10
 "MG",313170,"Itabira",9,10
 "SP",350630,"Bernardino de Campos",9,10
@@ -3782,6 +3790,7 @@
 "RS",430210,"Bento Gonçalves",11,10
 "GO",521140,"Itauçu",11,10
 "PA",150440,"Marapanim",12,10
+"TO",171180,"Juarina",12,10
 "TO",171884,"Sandolândia",12,10
 "PI",220040,"Altos",12,10
 "BA",292950,"São Sebastião do Passé",12,10
@@ -3796,7 +3805,6 @@
 "SP",351780,"Guaraçaí",12,10
 "SP",352580,"Júlio Mesquita",12,10
 "SP",352650,"Lavínia",12,10
-"SP",353280,"Nova Aliança",12,10
 "SP",354120,"Presidente Bernardes",12,10
 "SP",355490,"Três Fronteiras",12,10
 "SP",355500,"Tupã",12,10
@@ -3812,9 +3820,9 @@
 "GO",521940,"Santa Rita do Araguaia",12,10
 "GO",522040,"São Simão",12,10
 "MA",210470,"Graça Aranha",13,10
-"RN",240080,"Angicos",13,10
 "PB",251207,"Poço de José de Moura",13,10
 "PB",251590,"Serraria",13,10
+"AL",270930,"União dos Palmares",13,10
 "AL",270940,"Viçosa",13,10
 "MG",313820,"Lavras",13,10
 "RJ",330120,"Carmo",13,10
@@ -3836,10 +3844,10 @@
 "RN",240310,"Currais Novos",15,10
 "MG",310160,"Alfenas",15,10
 "MG",310710,"Boa Esperança",15,10
-"ES",320460,"Santa Teresa",15,10
 "SP",352044,"Ilha Solteira",15,10
 "MA",210940,"Primeira Cruz",16,10
 "RN",240020,"Açu",16,10
+"RN",241220,"São José de Mipibu",16,10
 "PB",250150,"Bananeiras",16,10
 "AL",270170,"Capela",16,10
 "SE",280150,"Carmópolis",16,10
@@ -3883,6 +3891,7 @@
 "BA",293140,"Teodoro Sampaio",20,10
 "BA",293170,"Terra Nova",20,10
 "MG",314700,"Paracatu",20,10
+"ES",320190,"Domingos Martins",20,10
 "SP",352270,"Itápolis",20,10
 "SP",353310,"Nova Guataporanga",20,10
 "SP",354280,"Ribeira",20,10
@@ -3891,7 +3900,6 @@
 "GO",520760,"Fazenda Nova",20,10
 "GO",521930,"Santa Helena de Goiás",20,10
 "MA",210060,"Amarante do Maranhão",21,10
-"MA",211040,"São Benedito do Rio Preto",21,10
 "CE",230380,"Cedro",21,10
 "CE",231325,"Tarrafas",21,10
 "RN",241050,"Rafael Fernandes",21,10
@@ -3944,7 +3952,6 @@
 "MS",500295,"Chapadão do Sul",22,10
 "TO",171360,"Monte do Carmo",23,10
 "TO",171610,"Paraíso do Tocantins",23,10
-"TO",171620,"Paranã",23,10
 "TO",171886,"Santa Fé do Araguaia",23,10
 "SE",280230,"Frei Paulo",23,10
 "SE",280460,"Nossa Senhora das Dores",23,10
@@ -3958,7 +3965,9 @@
 "GO",521910,"Santa Bárbara de Goiás",23,10
 "GO",521970,"Santa Terezinha de Goiás",23,10
 "AM",130260,"Manaus",24,10
+"RN",240080,"Angicos",24,10
 "PB",251080,"Patos",24,10
+"ES",320300,"Iúna",24,10
 "SP",352260,"Itapira",24,10
 "SP",355460,"Timburi",24,10
 "PR",410130,"Antônio Olinto",24,10
@@ -4001,7 +4010,9 @@
 "RN",240030,"Afonso Bezerra",27,10
 "RN",240710,"Macaíba",27,10
 "RN",241140,"Santana do Matos",27,10
+"SP",350715,"Bom Sucesso de Itararé",27,10
 "SP",351905,"Holambra",27,10
+"SP",352042,"Ilha Comprida",27,10
 "SP",352820,"Macedônia",27,10
 "SP",352840,"Mairinque",27,10
 "SP",352885,"Marapoama",27,10
@@ -4023,12 +4034,12 @@
 "PI",220310,"Cristino Castro",29,10
 "PI",220320,"Curimatá",29,10
 "PI",220510,"Itaueira",29,10
+"RN",240580,"João Câmara",29,10
 "RN",241290,"São Tomé",29,10
 "SE",280100,"Campo do Brito",29,10
 "PR",410410,"Campo do Tenente",29,10
 "GO",520460,"Campestre de Goiás",29,10
 "PA",150120,"Baião",30,10
-"MA",210720,"Nina Rodrigues",30,10
 "RN",241355,"Serrinha dos Pintos",30,10
 "AL",270030,"Arapiraca",30,10
 "MG",313860,"Lima Duarte",30,10
@@ -4040,7 +4051,6 @@
 "GO",520640,"Crixás",30,10
 "GO",521630,"Paranaiguara",30,10
 "PA",150760,"São Miguel do Guamá",31,10
-"PA",150830,"Viseu",31,10
 "MA",210340,"Coelho Neto",31,10
 "MA",210970,"Sambaíba",31,10
 "CE",231060,"Penaforte",31,10
@@ -4063,12 +4073,12 @@
 "PR",411630,"Munhoz de Melo",3,11
 "RR",140023,"Caroebe",4,11
 "RR",140028,"Iracema",4,11
-"RN",241240,"São José do Seridó",4,11
 "SP",354890,"São Carlos",4,11
 "SP",355080,"São Sebastião da Grama",4,11
 "PR",410390,"Campina da Lagoa",4,11
 "PR",412800,"Ubiratã",4,11
 "AC",120035,"Marechal Thaumaturgo",5,11
+"PA",150220,"Capanema",5,11
 "PB",250220,"Bom Jesus",5,11
 "PB",251350,"Santana de Mangueira",5,11
 "BA",293180,"Tremedal",5,11
@@ -4076,7 +4086,6 @@
 "MG",313940,"Manhuaçu",5,11
 "MG",315790,"Santa Margarida",5,11
 "MG",316110,"São Francisco",5,11
-"ES",320480,"São José do Calçado",5,11
 "RJ",330090,"Cambuci",5,11
 "RJ",330411,"Porto Real",5,11
 "SP",351519,"Espírito Santo do Turvo",5,11
@@ -4130,17 +4139,21 @@
 "MA",210015,"Água Doce do Maranhão",10,11
 "MA",210043,"Alto Alegre do Maranhão",10,11
 "MA",210047,"Alto Alegre do Pindaré",10,11
+"MA",210083,"Apicum-Açu",10,11
 "MA",210087,"Araguanã",10,11
 "MA",210125,"Bacabeira",10,11
+"MA",210135,"Bacurituba",10,11
 "MA",210173,"Belágua",10,11
 "MA",210177,"Bela Vista do Maranhão",10,11
 "MA",210193,"Bernardo do Mearim",10,11
 "MA",210197,"Boa Vista do Gurupi",10,11
 "MA",210203,"Bom Jesus das Selvas",10,11
+"MA",210207,"Bom Lugar",10,11
 "MA",210215,"Brejo de Areia",10,11
 "MA",210232,"Buriticupu",10,11
 "MA",210235,"Buritirana",10,11
 "MA",210255,"Campestre do Maranhão",10,11
+"MA",210275,"Capinzal do Norte",10,11
 "MA",210312,"Central do Maranhão",10,11
 "MA",210315,"Centro do Guilherme",10,11
 "MA",210317,"Centro Novo do Maranhão",10,11
@@ -4160,7 +4173,6 @@
 "MA",210594,"Lago dos Rodrigues",10,11
 "MA",210596,"Lagoa Grande do Maranhão",10,11
 "MA",210598,"Lajeado Novo",10,11
-"MA",210610,"Loreto",10,11
 "MA",210632,"Maracaçumé",10,11
 "MA",210637,"Maranhãozinho",10,11
 "MA",210663,"Matões do Norte",10,11
@@ -4168,18 +4180,15 @@
 "MA",210725,"Nova Colinas",10,11
 "MA",210735,"Nova Olinda do Maranhão",10,11
 "MA",210805,"Paulino Neves",10,11
-"MA",210825,"Pedro do Rosário",10,11
 "MA",210905,"Porto Rico do Maranhão",10,11
 "MA",210923,"Presidente Médici",10,11
 "MA",210945,"Raposa",10,11
 "MA",210955,"Ribamar Fiquene",10,11
 "MA",210975,"Santa Filomena do Maranhão",10,11
-"MA",211027,"Santo Amaro do Maranhão",10,11
 "MA",211065,"São Domingos do Azeitão",10,11
 "MA",211085,"São Francisco do Brejão",10,11
 "MA",211102,"São João do Carú",10,11
 "MA",211105,"São João do Paraíso",10,11
-"MA",211107,"São João do Soter",10,11
 "MA",211125,"São José dos Basílios",10,11
 "MA",211153,"São Pedro da Água Branca",10,11
 "MA",211157,"São Pedro dos Crentes",10,11
@@ -4188,6 +4197,7 @@
 "MA",211172,"Satubinha",10,11
 "MA",211174,"Senador Alexandre Costa",10,11
 "MA",211176,"Senador La Rocque",10,11
+"MA",211178,"Serrano do Maranhão",10,11
 "MA",211195,"Sucupira do Riachão",10,11
 "MA",211223,"Trizidela do Vale",10,11
 "MA",211245,"Turilândia",10,11
@@ -4210,13 +4220,12 @@
 "TO",170070,"Alvorada",11,11
 "TO",171240,"Lizarda",11,11
 "MA",210465,"Governador Newton Bello",11,11
+"MA",210825,"Pedro do Rosário",11,11
 "CE",230930,"Nova Russas",11,11
 "PB",250850,"Livramento",11,11
 "PE",260460,"Condado",11,11
 "AL",270100,"Boca da Mata",11,11
 "SE",280050,"Areia Branca",11,11
-"ES",320260,"Iconha",11,11
-"ES",320300,"Iúna",11,11
 "RJ",330260,"Mangaratiba",11,11
 "PR",410890,"Guairaçá",11,11
 "PR",411600,"Miraselva",11,11
@@ -4254,6 +4263,7 @@
 "GO",521480,"Nova Aurora",13,11
 "GO",521580,"Palmelo",13,11
 "GO",521960,"Santa Tereza de Goiás",13,11
+"TO",170040,"Almas",14,11
 "TO",170200,"Araguaçu",14,11
 "TO",170210,"Araguaína",14,11
 "TO",170370,"Brejinho de Nazaré",14,11
@@ -4320,6 +4330,7 @@
 "GO",522150,"Turvânia",14,11
 "GO",522190,"Varjão",14,11
 "MA",210250,"Cajari",15,11
+"MA",210430,"Godofredo Viana",15,11
 "PI",220690,"Novo Oriente do Piauí",15,11
 "CE",230015,"Acarape",15,11
 "CE",230460,"General Sampaio",15,11
@@ -4351,15 +4362,12 @@
 "MT",510626,"Novo Mundo",17,11
 "GO",520145,"Aparecida do Rio Doce",17,11
 "PB",251230,"Princesa Isabel",18,11
-"AL",270750,"Porto Real do Colégio",18,11
 "PR",410030,"Agudos do Sul",18,11
 "PR",410790,"Floresta",18,11
 "PR",411160,"Ivatuba",18,11
 "PR",411220,"Janiópolis",18,11
+"PA",150490,"Muaná",19,11
 "PA",150590,"Porto de Moz",19,11
-"MA",210870,"Pio XII",19,11
-"RN",240580,"João Câmara",19,11
-"AL",270300,"Ibateguara",19,11
 "MG",315415,"Reduto",19,11
 "SP",352215,"Itaoca",19,11
 "SP",354770,"Santo Anastácio",19,11
@@ -4375,6 +4383,7 @@
 "SP",350420,"Auriflama",20,11
 "MT",510670,"Ponte Branca",20,11
 "CE",230240,"Boa Viagem",21,11
+"RN",240850,"Ouro Branco",21,11
 "PE",260310,"Cachoeirinha",21,11
 "SE",280250,"General Maynard",21,11
 "SE",280500,"Pedra Mole",21,11
@@ -4383,7 +4392,7 @@
 "RS",430825,"Floriano Peixoto",21,11
 "RO",110012,"Ji-Paraná",22,11
 "RO",110147,"Primavera de Rondônia",22,11
-"MA",210260,"Cândido Mendes",22,11
+"MA",210845,"Peritoró",22,11
 "CE",230200,"Barro",22,11
 "CE",230390,"Chaval",22,11
 "CE",230660,"Itatira",22,11
@@ -4403,15 +4412,14 @@
 "RS",430980,"Ibiaçá",22,11
 "GO",521710,"Piracanjuba",22,11
 "RO",110030,"Vilhena",23,11
+"SE",280340,"Japoatã",23,11
 "SE",280370,"Macambira",23,11
 "SE",280540,"Poço Redondo",23,11
-"ES",320440,"Rio Novo do Sul",23,11
 "PR",412520,"São Jorge d'Oeste",23,11
 "RS",431100,"Jaguarão",23,11
 "MS",500750,"Rochedo",23,11
 "GO",520570,"Córrego do Ouro",23,11
 "RN",240060,"Almino Afonso",24,11
-"RN",240300,"Cruzeta",24,11
 "RN",240730,"Marcelino Vieira",24,11
 "RN",241030,"Serra Caiada",24,11
 "PB",251340,"Santa Luzia",24,11
@@ -4422,7 +4430,7 @@
 "CE",230010,"Abaiara",25,11
 "CE",231210,"Santana do Cariri",25,11
 "CE",231230,"São Benedito",25,11
-"RN",240670,"Lajes",25,11
+"RN",240300,"Cruzeta",25,11
 "RN",240780,"Monte Alegre",25,11
 "RN",241160,"São Bento do Norte",25,11
 "PE",261320,"São João",25,11
@@ -4453,8 +4461,10 @@
 "RO",110004,"Cacoal",26,11
 "PB",250630,"Guarabira",26,11
 "PB",251600,"Solânea",26,11
+"SE",280445,"Nossa Senhora Aparecida",26,11
 "SE",280530,"Pirambu",26,11
 "SE",280700,"São Miguel do Aleixo",26,11
+"ES",320340,"Mimoso do Sul",26,11
 "SP",355480,"Tremembé",26,11
 "PR",410320,"Bom Sucesso",26,11
 "PR",410350,"Califórnia",26,11
@@ -4525,6 +4535,7 @@
 "SP",352790,"Lutécia",30,11
 "SP",352860,"Manduri",30,11
 "SP",352990,"Miracatu",30,11
+"SP",353280,"Nova Aliança",30,11
 "SP",353410,"Oriente",30,11
 "SP",353660,"Paulo de Faria",30,11
 "SP",354200,"Quintana",30,11
@@ -4562,6 +4573,7 @@
 "RS",430055,"Alto Alegre",2,12
 "RS",430220,"Boa Vista do Buricá",2,12
 "RS",431306,"Nova Hartz",2,12
+"RN",240670,"Lajes",3,12
 "RN",240830,"Nova Cruz",3,12
 "RN",241360,"Severiano Melo",3,12
 "PB",250050,"Alagoinha",3,12
@@ -4592,7 +4604,7 @@
 "PB",251310,"Salgado de São Félix",5,12
 "AL",270430,"Maceió",5,12
 "MG",312850,"Guarará",5,12
-"RJ",330415,"Quissamã",5,12
+"SP",352020,"Igaratá",5,12
 "SP",355170,"Sertãozinho",5,12
 "SP",355410,"Taubaté",5,12
 "PR",411290,"Jundiaí do Sul",5,12
@@ -4604,7 +4616,7 @@
 "PI",220640,"Monsenhor Gil",6,12
 "PB",251290,"Rio Tinto",6,12
 "RS",431060,"Itaqui",6,12
-"SP",350650,"Birigui",7,12
+"RJ",330540,"Sapucaia",7,12
 "SP",353110,"Mongaguá",7,12
 "PR",411050,"Ipiranga",7,12
 "SC",420090,"Angelina",7,12
@@ -4625,9 +4637,11 @@
 "MG",316250,"São João del Rei",8,12
 "MG",317080,"Várzea da Palma",8,12
 "ES",320500,"Serra",8,12
+"SP",350650,"Birigui",8,12
 "SP",350870,"Caconde",8,12
 "SP",351380,"Diadema",8,12
 "SP",351440,"Dracena",8,12
+"SP",351565,"Fernão",8,12
 "SP",351820,"Guararapes",8,12
 "SP",351880,"Guarulhos",8,12
 "SP",352500,"Jandira",8,12
@@ -4637,8 +4651,6 @@
 "SP",353286,"Nova Castilho",8,12
 "SP",353510,"Palmares Paulista",8,12
 "SP",353600,"Parapuã",8,12
-"SP",353750,"Pereiras",8,12
-"SP",355700,"Votorantim",8,12
 "PR",410165,"Arapuã",8,12
 "PR",410630,"Corbélia",8,12
 "PR",410820,"Formosa do Oeste",8,12
@@ -4675,7 +4687,6 @@
 "GO",520549,"Cidade Ocidental",9,12
 "GO",521520,"Novo Brasil",9,12
 "AM",130002,"Alvarães",10,12
-"AM",130008,"Anamã",10,12
 "AM",130063,"Beruri",10,12
 "AM",130185,"Iranduba",10,12
 "AM",130353,"Presidente Figueiredo",10,12
@@ -4686,7 +4697,6 @@
 "PB",250120,"Areial",10,12
 "PB",251200,"Pocinhos",10,12
 "BA",291510,"Itagi",10,12
-"SP",355230,"Sud Mennucci",10,12
 "PR",410590,"Colorado",10,12
 "PR",410645,"Coronel Domingos Soares",10,12
 "PR",410773,"Fernandes Pinheiro",10,12
@@ -4710,7 +4720,6 @@
 "RN",241300,"São Vicente",11,12
 "PB",250410,"Carrapateira",11,12
 "PE",261130,"Pombos",11,12
-"ES",320360,"Mucurici",11,12
 "SP",351450,"Duartina",11,12
 "PR",410425,"Campo Magro",11,12
 "PR",411260,"Jardim Olinda",11,12
@@ -4721,7 +4730,6 @@
 "MS",500190,"Bataguassu",11,12
 "MS",500310,"Corguinho",11,12
 "MS",500790,"Sidrolândia",11,12
-"AM",130165,"Guajará",12,12
 "PI",220105,"Assunção do Piauí",12,12
 "PI",220635,"Milton Brandão",12,12
 "PI",220800,"Picos",12,12
@@ -4938,6 +4946,7 @@
 "PI",220780,"Paulistana",15,12
 "RN",240145,"Baraúna",15,12
 "PB",250180,"Bayeux",15,12
+"SE",280200,"Divina Pastora",15,12
 "SE",280660,"Santo Amaro das Brotas",15,12
 "SE",280720,"Siriri",15,12
 "BA",290240,"Aurelino Leal",15,12
@@ -4964,7 +4973,6 @@
 "RS",432195,"Trindade do Sul",15,12
 "PA",150350,"Irituia",16,12
 "RN",240200,"Caicó",16,12
-"RN",241220,"São José de Mipibu",16,12
 "PB",250620,"Frei Martinho",16,12
 "PR",411295,"Juranda",16,12
 "PR",412460,"São Carlos do Ivaí",16,12
@@ -4980,7 +4988,6 @@
 "PI",220190,"Bom Jesus",17,12
 "RN",240150,"Barcelona",17,12
 "RN",240325,"Parnamirim",17,12
-"RN",240750,"Maxaranguape",17,12
 "RN",240840,"Olho d'Água do Borges",17,12
 "PB",250720,"Itatuba",17,12
 "PB",251580,"Serra Redonda",17,12
@@ -5053,7 +5060,6 @@
 "GO",520250,"Aruanã",18,12
 "GO",521870,"Rianápolis",18,12
 "AM",130110,"Careiro",19,12
-"AM",130195,"Itamarati",19,12
 "AM",130210,"Japurá",19,12
 "AM",130220,"Juruá",19,12
 "AM",130310,"Nova Olinda do Norte",19,12
@@ -5071,7 +5077,6 @@
 "BA",292260,"Nilo Peçanha",19,12
 "BA",293040,"Serra Preta",19,12
 "MG",310400,"Araxá",19,12
-"SP",352880,"Maracaí",19,12
 "SP",354690,"Santa Lúcia",19,12
 "PR",410270,"Barra do Jacaré",19,12
 "PR",411375,"Lunardelli",19,12
@@ -5144,9 +5149,7 @@
 "MT",510719,"Ribeirãozinho",20,12
 "MT",510726,"Santo Afonso",20,12
 "AC",120030,"Feijó",21,12
-"TO",170360,"Brasilândia do Tocantins",21,12
 "CE",230125,"Ararendá",21,12
-"RN",240895,"Rio do Fogo",21,12
 "RN",240933,"Santa Maria",21,12
 "PB",250800,"Juru",21,12
 "PB",250900,"Manaíra",21,12
@@ -5277,20 +5280,15 @@
 "PA",150210,"Cametá",24,12
 "PE",261240,"Sanharó",24,12
 "AL",270840,"São José da Tapera",24,12
-"SE",280445,"Nossa Senhora Aparecida",24,12
 "ES",320420,"Piúma",24,12
-"SP",350830,"Cabrália Paulista",24,12
 "SP",354360,"Rifaina",24,12
 "PI",221010,"São José do Peixe",25,12
 "RN",240810,"Natal",25,12
 "ES",320230,"Guaçuí",25,12
-"PA",150520,"Oeiras do Pará",26,12
-"PA",150715,"São Domingos do Araguaia",26,12
 "MA",210560,"Joselândia",26,12
 "MA",210620,"Luís Domingues",26,12
 "MA",211150,"São Mateus do Maranhão",26,12
 "PI",220700,"Oeiras",26,12
-"RN",240390,"Francisco Dantas",26,12
 "RN",241380,"Taboleiro Grande",26,12
 "PB",250330,"Cachoeira dos Índios",26,12
 "PB",250520,"Cuitegi",26,12
@@ -5298,6 +5296,7 @@
 "PB",250880,"Malta",26,12
 "PB",251440,"São José de Espinharas",26,12
 "MG",312920,"Heliodora",26,12
+"SP",350830,"Cabrália Paulista",26,12
 "PR",410670,"Cruzeiro do Sul",26,12
 "RS",430070,"Anta Gorda",26,12
 "RS",431030,"Ilópolis",26,12
@@ -5313,6 +5312,8 @@
 "PA",150013,"Abel Figueiredo",27,12
 "PA",150276,"Cumaru do Norte",27,12
 "PA",150300,"Faro",27,12
+"PA",150495,"Nova Esperança do Piriá",27,12
+"PA",150715,"São Domingos do Araguaia",27,12
 "PA",150746,"São João da Ponta",27,12
 "PI",220211,"Campo Alegre do Fidalgo",27,12
 "PI",220253,"Caraúbas do Piauí",27,12
@@ -5364,8 +5365,8 @@
 "MG",317120,"Vespasiano",27,12
 "MG",317160,"Virgem da Lapa",27,12
 "SP",351518,"Espírito Santo do Pinhal",27,12
-"SP",351565,"Fernão",27,12
 "SP",351685,"Gavião Peixoto",27,12
+"SP",353475,"Ouroeste",27,12
 "SP",354540,"Salto Grande",27,12
 "SP",355360,"Tapiratiba",27,12
 "SP",355475,"Trabiju",27,12
@@ -5430,11 +5431,10 @@
 "PA",150260,"Colares",29,12
 "PA",150380,"Jacundá",29,12
 "PA",150400,"Limoeiro do Ajuru",29,12
-"PA",150495,"Nova Esperança do Piriá",29,12
 "PA",150560,"Peixe-Boi",29,12
 "PA",150563,"Piçarra",29,12
 "PA",150660,"Santa Maria do Pará",29,12
-"PA",150700,"Santo Antônio do Tauá",29,12
+"PA",150750,"São João do Araguaia",29,12
 "PA",150780,"Senador José Porfírio",29,12
 "PI",220342,"Domingos Mourão",29,12
 "PB",250710,"Itapororoca",29,12
@@ -5449,7 +5449,9 @@
 "PE",261250,"Santa Cruz do Capibaribe",29,12
 "MG",310010,"Abadia dos Dourados",29,12
 "MG",316905,"Tocos do Moji",29,12
+"ES",320360,"Mucurici",29,12
 "SP",350440,"Avanhandava",29,12
+"SP",353970,"Platina",29,12
 "SC",420060,"Águas Mornas",29,12
 "SC",420070,"Alfredo Wagner",29,12
 "SC",420110,"Anitápolis",29,12
@@ -5466,18 +5468,18 @@
 "RS",430205,"Benjamin Constant do Sul",29,12
 "RS",430655,"Dom Pedro de Alcântara",29,12
 "AM",130014,"Apuí",30,12
+"AM",130165,"Guajará",30,12
+"PA",150130,"Barcarena",30,12
 "PA",150190,"Bujaru",30,12
 "PA",150340,"Inhangapi",30,12
 "PA",150450,"Melgaço",30,12
 "PA",150500,"Nova Timboteua",30,12
 "PA",150740,"São Francisco do Pará",30,12
 "MA",210660,"Matões",30,12
-"MA",210920,"Presidente Juscelino",30,12
+"MA",210720,"Nina Rodrigues",30,12
 "MA",211030,"Santo Antônio dos Lopes",30,12
-"MA",211140,"São Luís Gonzaga do Maranhão",30,12
 "PI",220010,"Agricolândia",30,12
 "RN",241260,"São Paulo do Potengi",30,12
-"RN",241330,"Serra de São Bento",30,12
 "PB",250340,"Cacimba de Areia",30,12
 "PB",250560,"Diamante",30,12
 "PE",260390,"Carnaíba",30,12
@@ -5497,20 +5499,18 @@
 "MG",315730,"Santa Bárbara do Tugúrio",30,12
 "MG",315810,"Santa Maria do Salto",30,12
 "MG",316130,"São Francisco de Sales",30,12
+"ES",320130,"Cariacica",30,12
 "SP",350560,"Barrinha",30,12
 "SP",350775,"Brejo Alegre",30,12
 "SP",350890,"Caiabu",30,12
-"SP",350995,"Canas",30,12
 "SP",351170,"Charqueada",30,12
 "SP",351390,"Divinolândia",30,12
 "SP",351610,"Florínea",30,12
 "SP",351710,"Glicério",30,12
 "SP",351980,"Icém",30,12
-"SP",352020,"Igaratá",30,12
 "SP",352115,"Ipiguá",30,12
 "SP",352780,"Lupércio",30,12
 "SP",353290,"Nova Europa",30,12
-"SP",353970,"Platina",30,12
 "SP",354350,"Riversul",30,12
 "SP",355635,"Vargem",30,12
 "PR",412240,"Rolândia",30,12
@@ -5529,7 +5529,6 @@
 "GO",521565,"Palestina de Goiás",30,12
 "PA",150810,"Tucuruí",31,12
 "TO",171840,"Presidente Kennedy",31,12
-"MA",210290,"Carutapera",31,12
 "MA",210410,"Fortaleza dos Nogueiras",31,12
 "MA",210440,"Gonçalves Dias",31,12
 "RN",240160,"Bento Fernandes",31,12
@@ -5539,6 +5538,7 @@
 "RN",241170,"São Bento do Trairí",31,12
 "RN",241180,"São Fernando",31,12
 "RN",241310,"Senador Elói de Souza",31,12
+"RN",241330,"Serra de São Bento",31,12
 "RN",241370,"Sítio Novo",31,12
 "RN",241400,"Tangará",31,12
 "RN",241500,"Vila Flor",31,12

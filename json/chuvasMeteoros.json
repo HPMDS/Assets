@@ -1,0 +1,674 @@
+[
+	{
+		"inicio": {
+			"mes": 12,
+			"dia": 28
+		},
+		"fim": {
+			"mes": 1,
+			"dia": 12
+		},
+		"apice": {
+			"mes": 1,
+			"dia": 4
+		},
+		"nome": "Quadrântidas",
+		"ascensaoRecta": 230,
+		"declinacao": 49,
+		"velocidade": 41,
+		"thz": 120,
+		"descricao": "Forte com velocidades médias",
+		"link": "https://pt.wikipedia.org/wiki/Quadr%C3%A2ntidas"
+	},
+	{
+		"inicio": {
+			"mes": 12,
+			"dia": 12
+		},
+		"fim": {
+			"mes": 1,
+			"dia": 23
+		},
+		"apice": {
+			"mes": 12,
+			"dia": 20
+		},
+		"nome": "Coma Berenicídeos",
+		"ascensaoRecta": 175,
+		"declinacao": 30,
+		"velocidade": 64,
+		"thz": 5,
+		"descricao": "Média",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 12,
+			"dia": 5
+		},
+		"fim": {
+			"mes": 2,
+			"dia": 4
+		},
+		"apice": {
+			"mes": 12,
+			"dia": 19
+		},
+		"nome": "Leo Minorídeos de Dezembro",
+		"ascensaoRecta": 161,
+		"declinacao": 30,
+		"velocidade": 64,
+		"thz": 5,
+		"descricao": "Média",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 1,
+			"dia": 28
+		},
+		"fim": {
+			"mes": 2,
+			"dia": 21
+		},
+		"apice": {
+			"mes": 2,
+			"dia": 8
+		},
+		"nome": "Alfa Centaurídeos",
+		"ascensaoRecta": 210,
+		"declinacao": -59,
+		"velocidade": 56,
+		"thz": 6,
+		"descricao": "Média",
+		"link": "https://pt.wikipedia.org/wiki/Alfa_Centaur%C3%ADdeos"
+	},
+	{
+		"inicio": {
+			"mes": 2,
+			"dia": 25
+		},
+		"fim": {
+			"mes": 3,
+			"dia": 22
+		},
+		"apice": {
+			"mes": 3,
+			"dia": 14
+		},
+		"nome": "Gama Normídeos",
+		"ascensaoRecta": 239,
+		"declinacao": -50,
+		"velocidade": 56,
+		"thz": 6,
+		"descricao": "Média",
+		"link": "https://pt.wikipedia.org/wiki/Gama_Norm%C3%ADdeos"
+	},
+	{
+		"inicio": {
+			"mes": 4,
+			"dia": 16
+		},
+		"fim": {
+			"mes": 4,
+			"dia": 25
+		},
+		"apice": {
+			"mes": 4,
+			"dia": 22
+		},
+		"nome": "Líridas",
+		"ascensaoRecta": 271,
+		"declinacao": 34,
+		"velocidade": 49,
+		"thz": 18,
+		"descricao": "Forte com meteoros rápidos e persistentes",
+		"link": "https://pt.wikipedia.org/wiki/L%C3%ADridas"
+	},
+	{
+		"inicio": {
+			"mes": 4,
+			"dia": 15
+		},
+		"fim": {
+			"mes": 4,
+			"dia": 28
+		},
+		"apice": {
+			"mes": 4,
+			"dia": 23
+		},
+		"nome": "Pi Pupídeos",
+		"ascensaoRecta": 110,
+		"declinacao": -45,
+		"velocidade": 18,
+		"thz": "Variável",
+		"descricao": "Irregular",
+		"link": "https://pt.wikipedia.org/wiki/Pi_Pup%C3%ADdeos"
+	},
+	{
+		"inicio": {
+			"mes": 4,
+			"dia": 19
+		},
+		"fim": {
+			"mes": 5,
+			"dia": 28
+		},
+		"apice": {
+			"mes": 5,
+			"dia": 5
+		},
+		"nome": "Eta Aquáridas",
+		"ascensaoRecta": 338,
+		"declinacao": -1,
+		"velocidade": 66,
+		"thz": 65,
+		"descricao": "Forte com meteoros muito rápidos e de grande comprimento",
+		"link": "https://pt.wikipedia.org/wiki/Eta_Aqu%C3%A1ridas"
+	},
+	{
+		"inicio": {
+			"mes": 5,
+			"dia": 3
+		},
+		"fim": {
+			"mes": 5,
+			"dia": 14
+		},
+		"apice": {
+			"mes": 5,
+			"dia": 8
+		},
+		"nome": "Eta Líridas",
+		"ascensaoRecta": 287,
+		"declinacao": 44,
+		"velocidade": 43,
+		"thz": 3,
+		"descricao": "Fraca",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 6,
+			"dia": 28
+		},
+		"fim": {
+			"mes": 6,
+			"dia": 28
+		},
+		"apice": {
+			"mes": 6,
+			"dia": 28
+		},
+		"nome": "Bootídeos de Junho",
+		"ascensaoRecta": 224,
+		"declinacao": 48,
+		"velocidade": 18,
+		"thz": "Variável",
+		"descricao": "Irreggular",
+		"link": "https://pt.wikipedia.org/wiki/Boot%C3%ADdeos_de_junho"
+	},
+	{
+		"inicio": {
+			"mes": 7,
+			"dia": 15
+		},
+		"fim": {
+			"mes": 8,
+			"dia": 10
+		},
+		"apice": {
+			"mes": 7,
+			"dia": 28
+		},
+		"nome": "Piscis Austrinídeos",
+		"ascensaoRecta": 341,
+		"declinacao": -30,
+		"velocidade": 35,
+		"thz": 5,
+		"descricao": "Média",
+		"link": "https://pt.wikipedia.org/wiki/Piscis_Austrin%C3%ADdeos"
+	},
+	{
+		"inicio": {
+			"mes": 7,
+			"dia": 12
+		},
+		"fim": {
+			"mes": 8,
+			"dia": 19
+		},
+		"apice": {
+			"mes": 7,
+			"dia": 28
+		},
+		"nome": "Delta Aquáridas do Sul",
+		"ascensaoRecta": 340,
+		"declinacao": -6,
+		"velocidade": 41,
+		"thz": 16,
+		"descricao": "Forte com meteoros lentos e rasto comprido",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 7,
+			"dia": 3
+		},
+		"fim": {
+			"mes": 8,
+			"dia": 15
+		},
+		"apice": {
+			"mes": 7,
+			"dia": 30
+		},
+		"nome": "Alfa Capricornídeos",
+		"ascensaoRecta": 307,
+		"declinacao": -10,
+		"velocidade": 23,
+		"thz": 5,
+		"descricao": "Fraca",
+		"link": "https://pt.wikipedia.org/wiki/Alfa_Capricorn%C3%ADdeos"
+	},
+	{
+		"inicio": {
+			"mes": 7,
+			"dia": 17
+		},
+		"fim": {
+			"mes": 8,
+			"dia": 24
+		},
+		"apice": {
+			"mes": 8,
+			"dia": 12
+		},
+		"nome": "Perseidas",
+		"ascensaoRecta": 48,
+		"declinacao": 58,
+		"velocidade": 59,
+		"thz": 100,
+		"descricao": "Forte e muito rápidas",
+		"link": "https://pt.wikipedia.org/wiki/Perseidas"
+	},
+	{
+		"inicio": {
+			"mes": 8,
+			"dia": 3
+		},
+		"fim": {
+			"mes": 8,
+			"dia": 25
+		},
+		"apice": {
+			"mes": 8,
+			"dia": 17
+		},
+		"nome": "Capa Cignídeos",
+		"ascensaoRecta": 286,
+		"declinacao": 59,
+		"velocidade": 25,
+		"thz": 3,
+		"descricao": "Fraca com velocidades médias e brilhantes",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 8,
+			"dia": 25
+		},
+		"fim": {
+			"mes": 9,
+			"dia": 8
+		},
+		"apice": {
+			"mes": 9,
+			"dia": 1
+		},
+		"nome": "Alfa Aurigídeos",
+		"ascensaoRecta": 91,
+		"declinacao": 39,
+		"velocidade": 66,
+		"thz": 6,
+		"descricao": "Média com meteoros muito rápidos e persistentes",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 9,
+			"dia": 5
+		},
+		"fim": {
+			"mes": 10,
+			"dia": 10
+		},
+		"apice": {
+			"mes": 9,
+			"dia": 8
+		},
+		"nome": "Perseidas de Setembro",
+		"ascensaoRecta": 48,
+		"declinacao": 40,
+		"velocidade": 64,
+		"thz": 5,
+		"descricao": "Média com meteoros rápidos e persistentes",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 10,
+			"dia": 6
+		},
+		"fim": {
+			"mes": 10,
+			"dia": 10
+		},
+		"apice": {
+			"mes": 10,
+			"dia": 8
+		},
+		"nome": "Dracónidas",
+		"ascensaoRecta": 26,
+		"declinacao": 54,
+		"velocidade": 20,
+		"thz": "Variável",
+		"descricao": "Irregular",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 9,
+			"dia": 10
+		},
+		"fim": {
+			"mes": 11,
+			"dia": 20
+		},
+		"apice": {
+			"mes": 10,
+			"dia": 10
+		},
+		"nome": "Táuridas do Sul",
+		"ascensaoRecta": 32,
+		"declinacao": 9,
+		"velocidade": 27,
+		"thz": 5,
+		"descricao": "Fraca",
+		"link": "https://pt.wikipedia.org/wiki/T%C3%A1uridas"
+	},
+	{
+		"inicio": {
+			"mes": 9,
+			"dia": 22
+		},
+		"fim": {
+			"mes": 10,
+			"dia": 23
+		},
+		"apice": {
+			"mes": 10,
+			"dia": 18
+		},
+		"nome": "Delta Aurigídeos",
+		"ascensaoRecta": 84,
+		"declinacao": 44,
+		"velocidade": 64,
+		"thz": 2,
+		"descricao": "Fraca",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 10,
+			"dia": 14
+		},
+		"fim": {
+			"mes": 10,
+			"dia": 27
+		},
+		"apice": {
+			"mes": 10,
+			"dia": 18
+		},
+		"nome": "Épsilon Geminídeos",
+		"ascensaoRecta": 102,
+		"declinacao": 27,
+		"velocidade": 70,
+		"thz": 3,
+		"descricao": "Fraca",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 10,
+			"dia": 2
+		},
+		"fim": {
+			"mes": 11,
+			"dia": 7
+		},
+		"apice": {
+			"mes": 10,
+			"dia": 21
+		},
+		"nome": "Oriónidas",
+		"ascensaoRecta": 95,
+		"declinacao": 16,
+		"velocidade": 66,
+		"thz": 25,
+		"descricao": "Forte com meteoros rápidos e persistentes",
+		"link": "https://pt.wikipedia.org/wiki/Ori%C3%B3nidas"
+	},
+	{
+		"inicio": {
+			"mes": 10,
+			"dia": 21
+		},
+		"fim": {
+			"mes": 10,
+			"dia": 23
+		},
+		"apice": {
+			"mes": 10,
+			"dia": 22
+		},
+		"nome": "Leo Minorídeos",
+		"ascensaoRecta": 162,
+		"declinacao": 37,
+		"velocidade": 62,
+		"thz": 2,
+		"descricao": "Fraca",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 11,
+			"dia": 1
+		},
+		"fim": {
+			"mes": 11,
+			"dia": 25
+		},
+		"apice": {
+			"mes": 11,
+			"dia": 12
+		},
+		"nome": "Táuridas do Norte",
+		"ascensaoRecta": 58,
+		"declinacao": 22,
+		"velocidade": 29,
+		"thz": 5,
+		"descricao": "Média com meteoros muito lentos mas brilhantes",
+		"link": "https://pt.wikipedia.org/wiki/T%C3%A1uridas"
+	},
+	{
+		"inicio": {
+			"mes": 11,
+			"dia": 14
+		},
+		"fim": {
+			"mes": 11,
+			"dia": 21
+		},
+		"apice": {
+			"mes": 11,
+			"dia": 17
+		},
+		"nome": "Leónidas",
+		"ascensaoRecta": 152,
+		"declinacao": 22,
+		"velocidade": 71,
+		"thz": "Variável",
+		"descricao": "Irregular com meteoros muito rápidos, atingindo um pico de 33 em 33 anos",
+		"link": "https://pt.wikipedia.org/wiki/Le%C3%B3nidas_(chuva_de_meteoros)"
+	},
+	{
+		"inicio": {
+			"mes": 11,
+			"dia": 15
+		},
+		"fim": {
+			"mes": 11,
+			"dia": 25
+		},
+		"apice": {
+			"mes": 11,
+			"dia": 21
+		},
+		"nome": "Alfa Monocerotídeos",
+		"ascensaoRecta": 117,
+		"declinacao": 1,
+		"velocidade": 65,
+		"thz": "Variável",
+		"descricao": "Irregular",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 11,
+			"dia": 28
+		},
+		"fim": {
+			"mes": 12,
+			"dia": 9
+		},
+		"apice": {
+			"mes": 12,
+			"dia": 6
+		},
+		"nome": "Fenícidas",
+		"ascensaoRecta": 18,
+		"declinacao": -53,
+		"velocidade": 18,
+		"thz": "Variável",
+		"descricao": "Irregular",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 12,
+			"dia": 2
+		},
+		"fim": {
+			"mes": 12,
+			"dia": 16
+		},
+		"apice": {
+			"mes": 12,
+			"dia": 12
+		},
+		"nome": "Pupidas-Velidas",
+		"ascensaoRecta": 123,
+		"declinacao": -45,
+		"velocidade": 40,
+		"thz": 10,
+		"descricao": "Média",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 11,
+			"dia": 27
+		},
+		"fim": {
+			"mes": 12,
+			"dia": 17
+		},
+		"apice": {
+			"mes": 12,
+			"dia": 8
+		},
+		"nome": "Monocerotídeos",
+		"ascensaoRecta": 100,
+		"declinacao": 8,
+		"velocidade": 42,
+		"thz": 2,
+		"descricao": "Fraca",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 12,
+			"dia": 3
+		},
+		"fim": {
+			"mes": 12,
+			"dia": 15
+		},
+		"apice": {
+			"mes": 12,
+			"dia": 12
+		},
+		"nome": "Sigma Hidrídeos",
+		"ascensaoRecta": 127,
+		"declinacao": 2,
+		"velocidade": 58,
+		"thz": 3,
+		"descricao": "Fraca",
+		"link": null
+	},
+	{
+		"inicio": {
+			"mes": 12,
+			"dia": 7
+		},
+		"fim": {
+			"mes": 12,
+			"dia": 14
+		},
+		"apice": {
+			"mes": 12,
+			"dia": 14
+		},
+		"nome": "Gemínidas",
+		"ascensaoRecta": 112,
+		"declinacao": 33,
+		"velocidade": 35,
+		"thz": 120,
+		"descricao": "Forte com velocidades médias, meteoros brancos e numerosos",
+		"link": "https://pt.wikipedia.org/wiki/Gem%C3%ADnidas"
+	},
+	{
+		"inicio": {
+			"mes": 12,
+			"dia": 17
+		},
+		"fim": {
+			"mes": 12,
+			"dia": 26
+		},
+		"apice": {
+			"mes": 12,
+			"dia": 22
+		},
+		"nome": "Úrsidas",
+		"ascensaoRecta": 217,
+		"declinacao": 76,
+		"velocidade": 33,
+		"thz": 10,
+		"descricao": "Média",
+		"link": null
+	}
+]

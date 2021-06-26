@@ -2,7 +2,10 @@
 	{
 		"mes": 1,
 		"dia": 1,
-		"comemoracao": "Confraternização Universal"
+		"comemoracao": [
+				"Confraternização Universal",
+				"Dia Nacional do Município"
+			]
 	},
 	{
 		"mes": 1,

@@ -1299,10 +1299,7 @@
 	{
 		"mes": 9,
 		"dia": 10,
-		"comemoracao": [
-			"Dia do Gordo",
-			"Fundação do 1º Jornal do Brasil"
-		]
+		"comemoracao": "Fundação do 1º Jornal do Brasil"
 	},
 	{
 		"mes": 9,

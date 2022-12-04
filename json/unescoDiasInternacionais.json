@@ -1,0 +1,254 @@
+[
+	{
+		"dia": 14,
+		"mes": 1,
+		"nome": [
+			"Dia Internacional da Lógica",
+			"World Logic Day"
+		],
+		"link": "https://www.unesco.org/en/days/world-logic"
+	},
+	{
+		"dia": 24,
+		"mes": 1,
+		"nome": [
+			"Dia Internacional da Educação",
+			"International Day of Education"
+		],
+		"link": "https://www.unesco.org/en/days/education"
+	},
+	{
+		"dia": 24,
+		"mes": 1,
+		"nome": [
+			"Dia Mundial da Cultura Africana e Afrodescendente",
+			"World Day fo African and Afrodescendant Culture"
+		],
+		"link": "https://www.unesco.org/en/days/african-culture"
+	},
+	{
+		"dia": 27,
+		"mes": 1,
+		"nome": [
+			"Dia Internacional em Memória das Vítimas do Holocaustro",
+			"International Day of Commemoration in Memory of the Victims of Holocaust"
+		],
+		"link": "https://www.unesco.org/en/days/holocaust-remembrance"
+	},
+	{
+		"dia": 11,
+		"mes": 2,
+		"nome": [
+			"Dia Internacional das Muheres e Meninas na Ciência",
+			"International Day of Women and Girls in Science"
+		],
+		"link": "https://www.unesco.org/en/days/women-girls-science"
+	},
+	{
+		"dia": 13,
+		"mes": 2,
+		"nome": [
+			"Dia Mundial do Rádio",
+			"World Radio Day"
+		],
+		"link": "https://www.unesco.org/en/days/world-radio"
+	},
+	{
+		"dia": 21,
+		"mes": 2,
+		"nome": [
+			"Dia Internacional da Língua Materna",
+			"International Mother Language Day"
+		],
+		"link": "https://www.unesco.org/en/days/mother-language"
+	},
+	{
+		"dia": 4,
+		"mes": 3,
+		"nome": [
+			"Dia Mundial da Engenharia para o Desenvolvimento Sustentável",
+			"World Engineering Day for Sustainable Development"
+		],
+		"link": "https://www.unesco.org/en/days/engineering-sustainable-development"
+	},
+	{
+		"dia": 4,
+		"mes": 3,
+		"nome": [
+			"Dia Internacional da Mulher",
+			"International Women's Day"
+		],
+		"link": "https://www.unesco.org/en/days/women"
+	},
+	{
+		"dia": 14,
+		"mes": 3,
+		"nome": [
+			"Dia Internacional da Matemática",
+			"International Day of Mathematics"
+		],
+		"link": "https://www.unesco.org/en/days/mathematics"
+	},
+	{
+		"dia": 20,
+		"mes": 3,
+		"nome": [
+			"Dia Internacional da Francofonia",
+			"International Francophonie Day"
+		],
+		"link": "https://www.unesco.org/en/days/francophonie"
+	},
+	{
+		"dia": 21,
+		"mes": 3,
+		"nome": [
+			"Dia Internacional para a Eliminação da Discriminação Racial",
+			"International Day for the Elimination of Racial Discrimination"
+		],
+		"link": "https://www.unesco.org/en/days/racial-discrimination-elimination"
+	},
+	{
+		"dia": 21,
+		"mes": 3,
+		"nome": [
+			"Dia Internacional de Nowruz",
+			"International Day of Nowruz"
+		],
+		"link": "https://www.unesco.org/en/days/nowruz"
+	},
+	{
+		"dia": 21,
+		"mes": 3,
+		"nome": [
+			"Dia Mundial da Poesia",
+			"World Poetry Day"
+		],
+		"link": "https://www.unesco.org/en/days/poetry"
+	},
+	{
+		"dia": 22,
+		"mes": 3,
+		"nome": [
+			"Dia Mundial da Água",
+			"World Water Day"
+		],
+		"link": "https://www.unesco.org/en/days/world-water"
+	},
+	{
+		"dia": 6,
+		"mes": 4,
+		"nome": [
+			"Dia Internacional do Desporto para o Desenvolvimento e a Paz",
+			"International Day of Sport for Development and Peace"
+		],
+		"link": "https://www.unesco.org/en/days/sport-development-and-peace"
+	},
+	{
+		"dia": 15,
+		"mes": 4,
+		"nome": [
+			"Dia Mundial da Arte",
+			"World Art Day"
+		],
+		"link": "https://www.unesco.org/en/days/world-art"
+	},
+	{
+		"dia": 23,
+		"mes": 4,
+		"nome": [
+			"Dia Mundial do Livro e dos Direitos Autorais",
+			"World Book and Copyright Day"
+		],
+		"link": "https://www.unesco.org/en/days/world-book-and-copyright"
+	},
+	{
+		"dia": 30,
+		"mes": 4,
+		"nome": [
+			"Dia Internacional do Jazz",
+			"International Jazz Day"
+		],
+		"link": "https://www.unesco.org/en/days/jazz"
+	},
+	{
+		"dia": 3,
+		"mes": 5,
+		"nome": [
+			"Dia Mundial da Liberdade de Imprensa",
+			"World Press Freedom Day"
+		],
+		"link": "https://www.unesco.org/en/days/press-freedom"
+	},
+	{
+		"dia": 5,
+		"mes": 5,
+		"nome": [
+			"Dia Mundial da Língua Portuguesa",
+			"World Portuguese Language Day"
+		],
+		"link": "https://www.unesco.org/en/days/portuguese-language"
+	},
+	{
+		"dia": 5,
+		"mes": 5,
+		"nome": [
+			"Dia Mundial da Herança Africana",
+			"African World Heritage Day"
+		],
+		"link": "https://www.unesco.org/en/days/portuguese-language"
+	},
+	{
+		"dia": 16,
+		"mes": 5,
+		"nome": [
+			"Dia Internacional de Viver Juntos em Paz",
+			"International Day of Living Together in Peace"
+		],
+		"link": "https://www.unesco.org/en/days/living-together-peace"
+	},
+	{
+		"dia": 16,
+		"mes": 5,
+		"nome": [
+			"Dia Internacional da Luz",
+			"International Day of Light"
+		],
+		"link": "https://www.unesco.org/en/days/light"
+	},
+	{
+		"dia": 21,
+		"mes": 5,
+		"nome": [
+			"Dia Mundial da Diversidade Cultural para o Diálogo e o Desenvolvimento",
+			"World Day for Cultural Diversity for Dialogue and Development"
+		],
+		"link": "https://www.unesco.org/en/days/cultural-diversity-dialogue-development"
+	},
+	{
+		"dia": 22,
+		"mes": 5,
+		"nome": [
+			"Dia Internacional da Diversidade Biológica",
+			"International Day for Biological Diversity"
+		],
+		"link": "https://www.unesco.org/en/days/biological-diversity"
+	},
+	{
+		"dia": 5,
+		"mes": 6,
+		"nome": [
+			"Dia Mundial do Meio Ambiente",
+			"World Environment Day"
+		],
+		"link": "https://www.unesco.org/en/days/environment"
+	},
+	{
+		"dia": 8,
+		"mes": 6,
+		"nome": [
+			"Dia Mundial dos Oceanos",
+			"World Oceans Day"
+		],
+		"link": "https://www.unesco.org/en/days/oceans"
+	}
+]
